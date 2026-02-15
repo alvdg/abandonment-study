@@ -8,3 +8,5 @@ wheels/
 
 # Virtual environments
 .venv
+src/generar_datos_old1.py
+src/generate_data_old2.py

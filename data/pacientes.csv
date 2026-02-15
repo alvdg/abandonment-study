@@ -1,0 +1,1001 @@
+patient_id,age,gender,therapy_type,therapist,reason,sessions_number,first_appointment,last_appointment,days_since_last,abandonment
+P0001,36,M,individual,Dr. Min,anxiety,28,2024-12-12,2026-07-28,-163,1
+P0002,33,F,couple,Dr. Dominguez,depression,14,2025-02-23,2025-10-07,131,1
+P0003,29,F,individual,Dra. Rodriguez,anxiety,5,2024-08-09,2025-08-05,194,1
+P0004,55,F,individual,Dra. Gutierrez,anxiety,29,2024-09-15,2026-01-20,26,0
+P0005,62,F,individual,Dra. Rodriguez,depression,27,2024-08-13,2026-01-06,40,1
+P0006,48,F,individual,Dr. Dominguez,anxiety,16,2025-01-31,2025-10-21,117,1
+P0007,33,M,individual,Dra. Gutierrez,depression,25,2025-03-02,2026-06-16,-121,0
+P0008,73,M,individual,Dr. Min,depression,8,2024-09-07,2025-08-26,173,1
+P0009,31,M,couple,Dr. Dominguez,anxiety,29,2024-07-28,2026-01-20,26,0
+P0010,49,M,couple,Dr. Dominguez,anxiety,28,2024-07-27,2026-01-13,33,0
+P0011,49,F,individual,Dr. Dominguez,anxiety,20,2024-11-22,2026-04-07,-51,1
+P0012,37,M,individual,Dra. Rodriguez,relationship conflict,9,2024-10-16,2025-09-02,166,1
+P0013,33,M,couple,Dr. Dominguez,anxiety,22,2025-01-06,2025-12-02,75,1
+P0014,33,F,individual,Dra. Gutierrez,stress,11,2025-03-10,2025-09-16,152,1
+P0015,71,M,individual,Dr. Min,depression,11,2025-03-31,2025-09-16,152,1
+P0016,41,F,individual,Dr. Min,anxiety,12,2025-04-11,2025-09-23,145,1
+P0017,20,F,individual,Dra. Rodriguez,depression,18,2024-07-29,2025-11-04,103,1
+P0018,56,F,couple,Dr. Min,stress,13,2024-07-20,2025-12-30,47,0
+P0019,28,M,family,Dr. Dominguez,anxiety,24,2025-01-09,2025-12-16,61,1
+P0020,73,M,family,Dr. Dominguez,depression,9,2024-09-11,2025-09-02,166,1
+P0021,20,F,couple,Dra. Rodriguez,depression,7,2024-12-25,2025-08-19,180,1
+P0022,60,M,family,Dra. Rodriguez,depression,27,2025-01-01,2026-01-06,40,1
+P0023,34,F,individual,Dra. Gutierrez,relationship conflict,17,2024-10-04,2026-02-24,-9,0
+P0024,29,F,couple,Dra. Gutierrez,relationship conflict,16,2024-12-31,2025-10-21,117,1
+P0025,29,F,family,Dra. Rodriguez,relationship conflict,10,2024-10-21,2025-09-09,159,1
+P0026,49,F,individual,Dr. Min,stress,20,2025-04-15,2025-11-18,89,1
+P0027,58,F,couple,Dr. Dominguez,stress,21,2024-09-16,2025-11-25,82,1
+P0028,47,M,individual,Dr. Min,stress,18,2024-11-27,2025-11-04,103,1
+P0029,71,F,individual,Dra. Rodriguez,stress,29,2024-11-21,2026-08-11,-177,1
+P0030,41,M,individual,Dr. Min,anxiety,29,2024-12-06,2026-01-20,26,0
+P0031,65,F,individual,Dra. Gutierrez,depression,12,2024-07-31,2025-12-16,61,1
+P0032,29,M,family,Dra. Rodriguez,anxiety,14,2025-01-14,2025-10-07,131,1
+P0033,48,F,individual,Dr. Dominguez,anxiety,21,2025-02-27,2025-11-25,82,1
+P0034,56,M,couple,Dra. Rodriguez,depression,20,2025-02-23,2025-11-18,89,1
+P0035,57,F,individual,Dr. Min,anxiety,13,2024-11-23,2025-09-30,138,1
+P0036,61,F,individual,Dr. Dominguez,depression,23,2024-12-13,2025-12-09,68,1
+P0037,49,F,family,Dr. Min,depression,24,2025-02-07,2025-12-16,61,1
+P0038,35,F,couple,Dr. Min,anxiety,27,2025-04-01,2026-01-06,40,1
+P0039,25,F,couple,Dr. Dominguez,anxiety,19,2025-01-04,2025-11-11,96,1
+P0040,60,F,individual,Dr. Dominguez,depression,22,2025-01-07,2025-12-02,75,1
+P0041,58,M,couple,Dr. Dominguez,anxiety,12,2024-09-17,2025-12-16,61,1
+P0042,30,M,individual,Dra. Rodriguez,anxiety,7,2024-07-27,2025-10-07,131,1
+P0043,18,M,individual,Dr. Min,anxiety,18,2025-04-12,2026-03-10,-23,1
+P0044,38,M,couple,Dr. Min,anxiety,10,2024-12-17,2025-09-09,159,1
+P0045,62,M,individual,Dra. Gutierrez,depression,12,2024-10-18,2025-09-23,145,1
+P0046,69,M,couple,Dra. Rodriguez,stress,14,2024-10-22,2026-01-13,33,0
+P0047,36,M,individual,Dr. Min,anxiety,5,2024-09-10,2025-08-05,194,1
+P0048,49,F,individual,Dr. Dominguez,stress,16,2024-07-23,2025-10-21,117,1
+P0049,72,M,individual,Dr. Dominguez,relationship conflict,4,2025-02-04,2025-07-29,201,1
+P0050,67,F,individual,Dra. Rodriguez,depression,24,2024-08-18,2025-12-16,61,1
+P0051,60,F,individual,Dr. Min,depression,17,2024-10-12,2025-10-28,110,1
+P0052,68,M,individual,Dra. Rodriguez,anxiety,11,2025-02-06,2025-09-16,152,1
+P0053,74,F,individual,Dra. Gutierrez,anxiety,21,2025-01-11,2025-11-25,82,1
+P0054,64,F,individual,Dr. Min,relationship conflict,18,2024-12-13,2025-11-04,103,1
+P0055,55,M,couple,Dra. Gutierrez,anxiety,4,2024-09-15,2025-08-26,173,1
+P0056,51,M,couple,Dra. Gutierrez,depression,5,2024-11-02,2025-08-05,194,1
+P0057,33,F,individual,Dr. Min,anxiety,24,2024-09-07,2026-06-02,-107,0
+P0058,47,M,family,Dr. Min,depression,4,2024-09-24,2025-07-29,201,1
+P0059,67,F,individual,Dr. Min,anxiety,24,2024-09-15,2025-12-16,61,1
+P0060,20,M,individual,Dr. Dominguez,depression,13,2025-02-19,2025-12-30,47,0
+P0061,26,F,individual,Dr. Min,relationship conflict,17,2025-02-06,2025-10-28,110,1
+P0062,67,M,couple,Dr. Dominguez,anxiety,28,2024-09-08,2026-07-28,-163,0
+P0063,29,M,individual,Dr. Dominguez,depression,5,2024-12-28,2025-08-05,194,1
+P0064,62,M,individual,Dr. Min,anxiety,28,2024-11-27,2026-01-13,33,0
+P0065,56,F,individual,Dra. Gutierrez,stress,23,2024-12-26,2025-12-09,68,1
+P0066,28,M,couple,Dra. Rodriguez,anxiety,27,2024-12-24,2026-01-06,40,1
+P0067,68,M,individual,Dra. Gutierrez,depression,22,2024-08-27,2025-12-02,75,1
+P0068,31,F,individual,Dr. Min,depression,29,2024-08-17,2026-01-20,26,0
+P0069,72,F,individual,Dra. Rodriguez,anxiety,5,2024-11-06,2025-08-05,194,1
+P0070,68,F,individual,Dr. Dominguez,anxiety,26,2025-04-04,2026-06-30,-135,0
+P0071,64,M,individual,Dra. Rodriguez,anxiety,13,2025-01-16,2025-12-30,47,0
+P0072,32,M,family,Dra. Rodriguez,depression,10,2024-12-24,2025-09-09,159,1
+P0073,43,F,individual,Dra. Gutierrez,stress,13,2024-09-24,2025-09-30,138,1
+P0074,52,F,individual,Dra. Rodriguez,anxiety,22,2024-07-24,2026-05-05,-79,1
+P0075,48,F,couple,Dra. Rodriguez,depression,16,2024-11-23,2026-02-10,5,1
+P0076,18,M,couple,Dra. Rodriguez,anxiety,18,2024-11-23,2026-03-10,-23,1
+P0077,47,M,individual,Dr. Min,anxiety,23,2025-04-07,2025-12-09,68,1
+P0078,73,M,individual,Dr. Dominguez,depression,25,2025-02-09,2025-12-23,54,0
+P0079,69,M,couple,Dra. Rodriguez,stress,11,2025-03-31,2025-09-16,152,1
+P0080,57,F,couple,Dra. Gutierrez,anxiety,5,2024-09-27,2025-08-05,194,1
+P0081,25,F,individual,Dr. Min,anxiety,20,2024-10-21,2025-11-18,89,1
+P0082,60,F,couple,Dr. Dominguez,relationship conflict,14,2024-08-24,2025-10-07,131,1
+P0083,18,M,couple,Dra. Rodriguez,anxiety,15,2024-12-31,2025-10-14,124,1
+P0084,31,M,couple,Dra. Rodriguez,anxiety,23,2024-07-17,2026-05-19,-93,1
+P0085,60,F,couple,Dra. Gutierrez,depression,14,2024-12-29,2026-01-13,33,1
+P0086,74,F,couple,Dr. Dominguez,relationship conflict,6,2024-11-08,2025-08-12,187,1
+P0087,42,F,couple,Dra. Gutierrez,depression,9,2024-12-24,2025-09-02,166,1
+P0088,51,F,individual,Dra. Gutierrez,depression,11,2024-12-09,2025-12-02,75,1
+P0089,49,F,individual,Dra. Rodriguez,stress,17,2025-02-07,2025-10-28,110,1
+P0090,69,M,individual,Dr. Dominguez,stress,20,2024-08-22,2026-04-07,-51,0
+P0091,22,M,individual,Dr. Dominguez,anxiety,7,2024-12-13,2025-10-07,131,1
+P0092,70,M,family,Dra. Rodriguez,anxiety,14,2024-12-01,2025-10-07,131,1
+P0093,41,F,individual,Dr. Min,relationship conflict,19,2025-01-06,2025-11-11,96,1
+P0094,29,F,family,Dr. Min,depression,27,2024-10-05,2026-01-06,40,0
+P0095,50,F,individual,Dr. Dominguez,anxiety,5,2025-02-15,2025-09-09,159,1
+P0096,62,M,couple,Dra. Rodriguez,anxiety,20,2025-02-06,2025-11-18,89,1
+P0097,64,F,individual,Dr. Min,anxiety,13,2024-09-30,2025-09-30,138,1
+P0098,24,M,couple,Dra. Rodriguez,depression,4,2025-04-08,2025-07-29,201,1
+P0099,25,F,individual,Dra. Rodriguez,anxiety,9,2025-02-02,2025-09-02,166,1
+P0100,66,M,individual,Dr. Min,anxiety,4,2025-03-16,2025-08-26,173,1
+P0101,60,F,family,Dr. Dominguez,depression,26,2024-09-29,2025-12-30,47,0
+P0102,65,M,individual,Dr. Min,depression,6,2024-10-06,2025-09-23,145,1
+P0103,69,M,individual,Dr. Dominguez,depression,28,2025-02-05,2026-07-28,-163,0
+P0104,56,M,individual,Dr. Dominguez,anxiety,5,2024-08-06,2025-08-05,194,1
+P0105,61,F,individual,Dr. Min,anxiety,27,2025-04-17,2026-01-06,40,0
+P0106,73,F,individual,Dra. Gutierrez,anxiety,11,2024-08-15,2025-09-16,152,1
+P0107,24,M,couple,Dr. Dominguez,anxiety,21,2025-01-29,2025-11-25,82,1
+P0108,34,M,couple,Dr. Dominguez,depression,15,2025-03-21,2025-10-14,124,1
+P0109,43,F,couple,Dr. Dominguez,relationship conflict,28,2024-09-02,2026-01-13,33,1
+P0110,19,F,individual,Dra. Rodriguez,relationship conflict,24,2025-02-13,2025-12-16,61,1
+P0111,68,M,couple,Dr. Min,depression,10,2024-12-28,2025-11-18,89,1
+P0112,68,M,individual,Dr. Dominguez,stress,4,2025-02-05,2025-07-29,201,1
+P0113,46,F,individual,Dra. Gutierrez,anxiety,29,2024-08-12,2026-01-20,26,0
+P0114,69,M,family,Dr. Dominguez,depression,13,2025-03-12,2025-12-30,47,0
+P0115,21,M,individual,Dr. Min,anxiety,17,2025-01-14,2026-02-24,-9,0
+P0116,51,M,couple,Dr. Dominguez,anxiety,12,2024-12-27,2025-09-23,145,1
+P0117,70,M,individual,Dr. Dominguez,relationship conflict,15,2025-02-13,2025-10-14,124,1
+P0118,44,M,individual,Dra. Gutierrez,anxiety,27,2024-11-18,2026-07-14,-149,1
+P0119,53,M,individual,Dr. Dominguez,relationship conflict,17,2024-10-28,2026-02-24,-9,0
+P0120,67,M,individual,Dra. Rodriguez,anxiety,25,2025-03-06,2025-12-23,54,0
+P0121,55,M,family,Dr. Dominguez,stress,26,2024-08-23,2025-12-30,47,1
+P0122,62,M,individual,Dr. Dominguez,depression,26,2024-12-22,2026-06-30,-135,1
+P0123,25,F,family,Dr. Dominguez,relationship conflict,29,2024-08-15,2026-01-20,26,1
+P0124,50,F,family,Dr. Dominguez,depression,11,2025-01-07,2025-12-02,75,1
+P0125,37,M,individual,Dr. Min,anxiety,12,2025-03-13,2025-09-23,145,1
+P0126,37,F,family,Dra. Rodriguez,anxiety,24,2025-02-16,2026-06-02,-107,0
+P0127,20,F,individual,Dr. Min,depression,6,2025-02-13,2025-09-23,145,1
+P0128,64,M,family,Dra. Rodriguez,anxiety,5,2024-10-28,2025-08-05,194,1
+P0129,56,F,individual,Dr. Min,anxiety,29,2025-02-09,2026-08-11,-177,0
+P0130,74,M,couple,Dra. Gutierrez,depression,6,2024-09-14,2025-09-23,145,1
+P0131,47,M,couple,Dra. Gutierrez,relationship conflict,6,2025-02-19,2025-08-12,187,1
+P0132,49,M,individual,Dr. Min,anxiety,21,2024-08-17,2025-11-25,82,1
+P0133,39,M,individual,Dr. Min,anxiety,26,2024-11-12,2025-12-30,47,0
+P0134,62,M,family,Dr. Min,depression,29,2025-03-14,2026-01-20,26,1
+P0135,31,M,couple,Dra. Gutierrez,relationship conflict,9,2024-12-11,2025-09-02,166,1
+P0136,69,M,individual,Dr. Dominguez,relationship conflict,13,2024-08-05,2025-09-30,138,1
+P0137,32,F,family,Dra. Rodriguez,depression,16,2025-02-09,2026-02-10,5,0
+P0138,40,F,individual,Dra. Rodriguez,anxiety,24,2025-01-18,2025-12-16,61,1
+P0139,22,F,individual,Dr. Dominguez,depression,20,2025-04-22,2025-11-18,89,1
+P0140,42,F,individual,Dr. Dominguez,anxiety,21,2024-10-03,2025-11-25,82,1
+P0141,37,F,couple,Dr. Dominguez,anxiety,8,2025-01-12,2025-08-26,173,1
+P0142,24,M,family,Dra. Gutierrez,anxiety,18,2024-10-31,2026-03-10,-23,1
+P0143,71,M,couple,Dra. Rodriguez,stress,7,2024-09-20,2025-08-19,180,1
+P0144,21,F,individual,Dra. Gutierrez,anxiety,11,2025-02-02,2025-09-16,152,1
+P0145,73,M,individual,Dr. Dominguez,depression,26,2024-11-30,2026-06-30,-135,1
+P0146,70,M,individual,Dr. Dominguez,relationship conflict,15,2025-04-08,2025-10-14,124,1
+P0147,22,M,couple,Dra. Rodriguez,depression,21,2024-12-22,2025-11-25,82,1
+P0148,35,M,individual,Dra. Gutierrez,anxiety,20,2025-02-28,2025-11-18,89,1
+P0149,34,M,individual,Dr. Dominguez,depression,17,2024-07-27,2025-10-28,110,1
+P0150,46,F,individual,Dr. Min,anxiety,8,2025-04-02,2025-10-21,117,1
+P0151,55,M,couple,Dra. Rodriguez,anxiety,20,2024-12-08,2025-11-18,89,1
+P0152,47,F,individual,Dra. Rodriguez,depression,15,2025-01-30,2025-10-14,124,1
+P0153,29,F,individual,Dr. Dominguez,stress,4,2024-10-19,2025-07-29,201,1
+P0154,33,F,individual,Dr. Min,anxiety,23,2024-12-17,2025-12-09,68,1
+P0155,37,F,individual,Dra. Gutierrez,anxiety,24,2025-01-21,2025-12-16,61,1
+P0156,70,F,couple,Dra. Gutierrez,anxiety,10,2025-04-04,2025-09-09,159,1
+P0157,30,F,family,Dr. Dominguez,depression,10,2025-04-21,2025-09-09,159,1
+P0158,47,M,individual,Dr. Dominguez,anxiety,22,2024-09-01,2026-05-05,-79,0
+P0159,70,M,individual,Dr. Min,stress,22,2025-04-09,2025-12-02,75,1
+P0160,72,F,individual,Dra. Gutierrez,depression,22,2025-01-14,2025-12-02,75,1
+P0161,70,F,individual,Dra. Rodriguez,anxiety,28,2025-04-01,2026-07-28,-163,0
+P0162,20,F,family,Dr. Min,anxiety,5,2024-11-04,2025-09-09,159,1
+P0163,57,M,individual,Dr. Dominguez,stress,6,2024-08-11,2025-08-12,187,1
+P0164,37,F,individual,Dra. Rodriguez,anxiety,16,2024-12-10,2025-10-21,117,1
+P0165,50,M,couple,Dra. Rodriguez,anxiety,17,2024-08-20,2026-02-24,-9,1
+P0166,54,M,individual,Dra. Gutierrez,anxiety,23,2025-02-10,2025-12-09,68,1
+P0167,58,F,individual,Dra. Gutierrez,depression,10,2024-08-01,2025-09-09,159,1
+P0168,27,M,couple,Dr. Min,depression,18,2024-11-10,2026-03-10,-23,0
+P0169,22,F,individual,Dra. Rodriguez,anxiety,27,2024-12-10,2026-07-14,-149,1
+P0170,20,F,couple,Dr. Min,stress,22,2024-08-19,2025-12-02,75,1
+P0171,54,M,family,Dr. Min,stress,7,2025-01-11,2025-08-19,180,1
+P0172,20,F,couple,Dr. Min,anxiety,19,2025-02-17,2025-11-11,96,1
+P0173,21,F,couple,Dra. Gutierrez,depression,14,2024-12-25,2025-10-07,131,1
+P0174,19,F,individual,Dra. Gutierrez,anxiety,19,2024-11-26,2025-11-11,96,1
+P0175,60,F,individual,Dra. Gutierrez,anxiety,18,2024-11-20,2025-11-04,103,1
+P0176,30,M,family,Dr. Min,depression,20,2024-07-18,2025-11-18,89,1
+P0177,40,M,individual,Dra. Gutierrez,depression,10,2024-11-07,2025-11-18,89,1
+P0178,35,F,couple,Dra. Rodriguez,anxiety,6,2024-11-16,2025-09-23,145,1
+P0179,74,M,couple,Dra. Gutierrez,stress,12,2024-08-12,2025-09-23,145,1
+P0180,38,M,couple,Dr. Min,stress,27,2024-12-04,2026-01-06,40,0
+P0181,22,F,couple,Dr. Dominguez,anxiety,17,2024-07-30,2026-02-24,-9,0
+P0182,41,M,couple,Dra. Rodriguez,depression,24,2024-09-22,2025-12-16,61,1
+P0183,32,F,couple,Dra. Gutierrez,depression,28,2024-12-28,2026-01-13,33,1
+P0184,31,F,individual,Dr. Dominguez,stress,18,2024-08-02,2026-03-10,-23,0
+P0185,23,M,individual,Dra. Gutierrez,stress,14,2025-03-31,2026-01-13,33,0
+P0186,60,F,individual,Dra. Gutierrez,relationship conflict,12,2024-08-20,2025-09-23,145,1
+P0187,56,M,individual,Dr. Min,relationship conflict,12,2024-12-09,2025-09-23,145,1
+P0188,39,M,individual,Dr. Dominguez,depression,9,2024-08-27,2025-09-02,166,1
+P0189,67,F,individual,Dr. Dominguez,anxiety,20,2025-02-28,2025-11-18,89,1
+P0190,67,F,couple,Dr. Dominguez,stress,29,2024-10-23,2026-08-11,-177,0
+P0191,37,F,individual,Dr. Dominguez,anxiety,11,2024-11-04,2025-09-16,152,1
+P0192,41,F,couple,Dr. Dominguez,relationship conflict,14,2025-01-25,2025-10-07,131,1
+P0193,31,F,couple,Dra. Rodriguez,anxiety,12,2025-04-19,2025-09-23,145,1
+P0194,53,F,couple,Dr. Dominguez,anxiety,20,2025-03-30,2025-11-18,89,1
+P0195,67,M,individual,Dr. Min,anxiety,14,2024-07-28,2025-10-07,131,1
+P0196,62,F,individual,Dr. Min,depression,18,2025-02-20,2026-03-10,-23,0
+P0197,34,F,individual,Dra. Gutierrez,relationship conflict,15,2024-10-10,2025-10-14,124,1
+P0198,66,F,individual,Dra. Rodriguez,anxiety,10,2024-10-06,2025-09-09,159,1
+P0199,71,F,individual,Dra. Rodriguez,depression,5,2025-01-28,2025-08-05,194,1
+P0200,49,F,couple,Dra. Gutierrez,anxiety,14,2025-02-09,2025-10-07,131,1
+P0201,65,F,individual,Dra. Gutierrez,stress,12,2024-11-15,2025-09-23,145,1
+P0202,57,F,individual,Dra. Rodriguez,stress,15,2024-11-30,2025-10-14,124,1
+P0203,59,F,individual,Dra. Gutierrez,stress,13,2024-09-03,2025-12-30,47,0
+P0204,35,F,individual,Dr. Min,anxiety,15,2024-10-11,2025-10-14,124,1
+P0205,48,F,individual,Dra. Gutierrez,stress,16,2024-09-09,2025-10-21,117,1
+P0206,31,F,couple,Dra. Gutierrez,depression,23,2024-10-01,2025-12-09,68,1
+P0207,19,M,couple,Dra. Gutierrez,stress,20,2025-01-07,2025-11-18,89,1
+P0208,57,M,couple,Dra. Gutierrez,anxiety,29,2025-04-04,2026-01-20,26,0
+P0209,34,F,couple,Dra. Rodriguez,anxiety,16,2024-09-03,2025-10-21,117,1
+P0210,29,M,individual,Dra. Gutierrez,depression,7,2024-09-18,2025-10-07,131,1
+P0211,51,M,individual,Dr. Dominguez,depression,21,2025-02-08,2025-11-25,82,1
+P0212,68,M,individual,Dra. Rodriguez,depression,4,2024-12-05,2025-07-29,201,1
+P0213,25,M,individual,Dr. Dominguez,anxiety,4,2024-10-16,2025-08-26,173,1
+P0214,54,F,individual,Dra. Rodriguez,depression,19,2024-08-08,2025-11-11,96,1
+P0215,27,F,individual,Dra. Gutierrez,anxiety,18,2025-01-19,2026-03-10,-23,0
+P0216,59,M,family,Dra. Gutierrez,relationship conflict,18,2025-02-21,2025-11-04,103,1
+P0217,28,F,individual,Dr. Min,stress,16,2024-11-08,2026-02-10,5,1
+P0218,35,F,individual,Dra. Gutierrez,anxiety,17,2025-03-16,2026-02-24,-9,0
+P0219,62,M,individual,Dra. Rodriguez,relationship conflict,21,2024-08-29,2025-11-25,82,1
+P0220,42,F,individual,Dr. Min,depression,12,2025-03-13,2025-09-23,145,1
+P0221,26,F,individual,Dra. Gutierrez,relationship conflict,16,2025-01-24,2025-10-21,117,1
+P0222,66,M,couple,Dr. Min,relationship conflict,26,2024-07-23,2025-12-30,47,1
+P0223,61,F,individual,Dra. Gutierrez,anxiety,29,2024-09-20,2026-01-20,26,0
+P0224,64,M,couple,Dra. Gutierrez,depression,29,2024-08-30,2026-01-20,26,0
+P0225,56,M,individual,Dra. Rodriguez,anxiety,23,2024-08-09,2026-05-19,-93,0
+P0226,22,M,family,Dra. Rodriguez,anxiety,23,2024-12-06,2025-12-09,68,1
+P0227,53,F,individual,Dra. Rodriguez,stress,13,2025-03-08,2025-12-30,47,0
+P0228,66,F,individual,Dra. Gutierrez,anxiety,12,2025-02-13,2025-09-23,145,1
+P0229,45,F,individual,Dra. Gutierrez,depression,11,2024-12-01,2025-09-16,152,1
+P0230,23,M,individual,Dr. Dominguez,depression,19,2024-09-09,2025-11-11,96,1
+P0231,38,F,individual,Dra. Rodriguez,depression,22,2024-11-24,2026-05-05,-79,0
+P0232,47,F,individual,Dr. Dominguez,depression,20,2025-02-24,2025-11-18,89,1
+P0233,54,F,couple,Dr. Dominguez,relationship conflict,12,2024-12-25,2025-12-16,61,1
+P0234,73,F,couple,Dr. Dominguez,anxiety,28,2025-02-08,2026-01-13,33,0
+P0235,19,F,couple,Dra. Gutierrez,depression,28,2024-10-04,2026-01-13,33,1
+P0236,41,F,individual,Dr. Min,depression,19,2024-11-09,2025-11-11,96,1
+P0237,30,F,individual,Dr. Dominguez,anxiety,10,2025-03-04,2025-11-18,89,1
+P0238,46,F,family,Dra. Gutierrez,anxiety,19,2024-09-07,2025-11-11,96,1
+P0239,71,F,couple,Dr. Min,anxiety,12,2025-03-31,2025-09-23,145,1
+P0240,44,M,individual,Dr. Min,relationship conflict,20,2024-10-24,2026-04-07,-51,1
+P0241,32,M,family,Dra. Gutierrez,depression,20,2024-10-17,2025-11-18,89,1
+P0242,59,F,couple,Dra. Gutierrez,anxiety,9,2025-04-12,2025-09-02,166,1
+P0243,34,M,individual,Dr. Min,anxiety,20,2025-04-09,2025-11-18,89,1
+P0244,65,M,couple,Dra. Rodriguez,depression,21,2024-12-30,2026-04-21,-65,1
+P0245,31,F,individual,Dra. Rodriguez,depression,25,2025-02-24,2025-12-23,54,0
+P0246,70,M,couple,Dr. Min,anxiety,18,2024-08-15,2025-11-04,103,1
+P0247,34,F,couple,Dr. Dominguez,anxiety,29,2024-08-03,2026-01-20,26,1
+P0248,69,M,couple,Dra. Gutierrez,depression,29,2025-01-22,2026-01-20,26,1
+P0249,36,M,individual,Dr. Min,depression,23,2024-12-21,2025-12-09,68,1
+P0250,22,F,couple,Dra. Gutierrez,anxiety,17,2025-03-10,2025-10-28,110,1
+P0251,56,M,individual,Dr. Min,depression,26,2024-11-12,2025-12-30,47,1
+P0252,72,M,couple,Dr. Min,anxiety,17,2025-01-10,2026-02-24,-9,0
+P0253,70,M,couple,Dr. Dominguez,anxiety,15,2024-07-18,2025-10-14,124,1
+P0254,72,M,individual,Dra. Gutierrez,anxiety,12,2024-11-21,2025-09-23,145,1
+P0255,54,M,individual,Dr. Min,depression,14,2025-04-15,2025-10-07,131,1
+P0256,28,F,individual,Dra. Gutierrez,relationship conflict,10,2025-01-18,2025-11-18,89,1
+P0257,74,F,individual,Dra. Gutierrez,depression,17,2024-09-29,2025-10-28,110,1
+P0258,56,F,individual,Dra. Rodriguez,anxiety,5,2025-04-05,2025-08-05,194,1
+P0259,33,F,individual,Dr. Min,anxiety,11,2025-02-20,2025-09-16,152,1
+P0260,23,M,individual,Dra. Gutierrez,depression,28,2025-04-04,2026-07-28,-163,1
+P0261,23,F,individual,Dr. Min,depression,18,2024-12-28,2025-11-04,103,1
+P0262,28,M,couple,Dra. Rodriguez,anxiety,18,2024-12-06,2026-03-10,-23,1
+P0263,42,F,family,Dra. Gutierrez,relationship conflict,20,2025-03-01,2026-04-07,-51,1
+P0264,20,M,couple,Dr. Min,stress,15,2024-12-10,2025-10-14,124,1
+P0265,18,F,individual,Dr. Dominguez,anxiety,24,2025-01-23,2026-06-02,-107,0
+P0266,30,F,individual,Dra. Rodriguez,relationship conflict,23,2025-03-09,2025-12-09,68,1
+P0267,19,F,individual,Dr. Dominguez,depression,23,2024-12-24,2025-12-09,68,1
+P0268,38,M,individual,Dr. Min,relationship conflict,6,2024-11-06,2025-08-12,187,1
+P0269,39,M,family,Dra. Gutierrez,depression,28,2025-03-13,2026-01-13,33,0
+P0270,64,M,individual,Dra. Gutierrez,anxiety,19,2025-02-07,2025-11-11,96,1
+P0271,67,M,individual,Dra. Rodriguez,relationship conflict,24,2025-02-23,2025-12-16,61,1
+P0272,19,F,individual,Dr. Min,anxiety,21,2025-02-17,2026-04-21,-65,0
+P0273,51,M,individual,Dra. Gutierrez,depression,21,2025-03-28,2025-11-25,82,1
+P0274,21,F,couple,Dra. Gutierrez,anxiety,25,2024-10-20,2025-12-23,54,1
+P0275,64,M,individual,Dr. Min,stress,11,2025-02-18,2025-09-16,152,1
+P0276,21,M,couple,Dra. Gutierrez,depression,27,2025-04-07,2026-07-14,-149,0
+P0277,40,F,individual,Dr. Min,stress,21,2025-02-07,2025-11-25,82,1
+P0278,55,F,individual,Dr. Min,depression,13,2024-07-21,2025-12-30,47,0
+P0279,62,M,individual,Dr. Min,relationship conflict,11,2024-12-29,2025-09-16,152,1
+P0280,51,F,individual,Dra. Rodriguez,relationship conflict,28,2024-11-15,2026-07-28,-163,0
+P0281,29,M,couple,Dr. Dominguez,relationship conflict,15,2025-04-19,2026-01-27,19,1
+P0282,54,F,couple,Dra. Gutierrez,relationship conflict,12,2024-12-01,2025-09-23,145,1
+P0283,32,F,couple,Dr. Dominguez,stress,22,2025-03-14,2026-05-05,-79,1
+P0284,57,M,individual,Dra. Rodriguez,anxiety,13,2024-07-27,2025-12-30,47,1
+P0285,60,F,individual,Dr. Dominguez,anxiety,29,2024-12-12,2026-08-11,-177,1
+P0286,55,M,couple,Dra. Gutierrez,anxiety,5,2024-09-04,2025-08-05,194,1
+P0287,58,F,individual,Dr. Min,depression,23,2024-11-26,2025-12-09,68,1
+P0288,24,F,individual,Dr. Dominguez,anxiety,29,2024-09-20,2026-01-20,26,0
+P0289,42,F,couple,Dra. Rodriguez,depression,12,2025-01-09,2025-09-23,145,1
+P0290,69,M,individual,Dr. Dominguez,depression,24,2024-08-16,2025-12-16,61,1
+P0291,51,F,couple,Dra. Rodriguez,relationship conflict,23,2024-12-04,2025-12-09,68,1
+P0292,58,F,family,Dra. Rodriguez,depression,27,2025-03-19,2026-01-06,40,1
+P0293,41,F,couple,Dr. Min,anxiety,14,2024-08-13,2025-10-07,131,1
+P0294,49,M,individual,Dra. Gutierrez,relationship conflict,8,2024-09-28,2025-08-26,173,1
+P0295,62,F,couple,Dr. Dominguez,anxiety,7,2024-10-06,2025-10-07,131,1
+P0296,29,F,individual,Dra. Gutierrez,anxiety,4,2024-08-13,2025-08-26,173,1
+P0297,70,F,individual,Dr. Dominguez,depression,26,2024-08-23,2026-06-30,-135,0
+P0298,55,M,individual,Dra. Gutierrez,relationship conflict,14,2025-04-20,2025-10-07,131,1
+P0299,51,M,individual,Dr. Min,relationship conflict,24,2025-01-25,2025-12-16,61,1
+P0300,24,M,individual,Dra. Gutierrez,depression,5,2024-10-08,2025-09-09,159,1
+P0301,52,M,couple,Dra. Gutierrez,stress,29,2025-03-15,2026-01-20,26,0
+P0302,61,F,individual,Dr. Min,depression,29,2024-09-09,2026-01-20,26,0
+P0303,38,M,couple,Dra. Gutierrez,anxiety,10,2025-03-28,2025-09-09,159,1
+P0304,21,F,individual,Dr. Dominguez,stress,23,2024-09-22,2026-05-19,-93,0
+P0305,28,F,individual,Dr. Dominguez,relationship conflict,8,2024-12-22,2025-10-21,117,1
+P0306,59,F,couple,Dr. Min,anxiety,4,2024-09-21,2025-08-26,173,1
+P0307,27,M,individual,Dra. Rodriguez,anxiety,8,2025-02-14,2025-10-21,117,1
+P0308,23,F,individual,Dr. Min,stress,12,2024-08-27,2025-09-23,145,1
+P0309,64,M,individual,Dr. Dominguez,anxiety,13,2024-10-18,2025-12-30,47,1
+P0310,43,M,individual,Dr. Min,anxiety,8,2025-01-11,2025-10-21,117,1
+P0311,29,M,individual,Dra. Rodriguez,relationship conflict,20,2025-03-27,2025-11-18,89,1
+P0312,58,M,individual,Dr. Dominguez,stress,16,2024-12-12,2026-02-10,5,0
+P0313,74,F,couple,Dr. Min,depression,15,2025-02-13,2025-10-14,124,1
+P0314,51,M,individual,Dr. Min,depression,18,2025-01-01,2025-11-04,103,1
+P0315,24,F,individual,Dra. Gutierrez,anxiety,23,2025-04-12,2025-12-09,68,1
+P0316,51,F,individual,Dr. Min,relationship conflict,19,2024-11-17,2025-11-11,96,1
+P0317,51,M,couple,Dra. Gutierrez,relationship conflict,13,2025-01-24,2025-09-30,138,1
+P0318,67,M,couple,Dr. Dominguez,relationship conflict,7,2024-12-17,2025-08-19,180,1
+P0319,37,M,couple,Dr. Dominguez,relationship conflict,13,2024-12-04,2025-09-30,138,1
+P0320,62,F,family,Dr. Dominguez,relationship conflict,25,2024-12-17,2025-12-23,54,0
+P0321,62,M,individual,Dr. Min,anxiety,5,2024-08-08,2025-08-05,194,1
+P0322,67,F,individual,Dra. Rodriguez,anxiety,14,2025-02-24,2026-01-13,33,0
+P0323,20,F,couple,Dr. Dominguez,relationship conflict,19,2025-04-22,2025-11-11,96,1
+P0324,35,F,couple,Dra. Gutierrez,stress,22,2024-12-04,2025-12-02,75,1
+P0325,28,F,individual,Dra. Rodriguez,anxiety,11,2024-12-23,2025-09-16,152,1
+P0326,27,F,family,Dra. Rodriguez,anxiety,8,2024-09-12,2025-08-26,173,1
+P0327,23,F,individual,Dra. Gutierrez,anxiety,26,2024-09-08,2025-12-30,47,0
+P0328,18,F,couple,Dr. Min,anxiety,10,2024-10-21,2025-09-09,159,1
+P0329,42,F,individual,Dr. Min,anxiety,10,2025-01-12,2025-09-09,159,1
+P0330,38,F,individual,Dr. Dominguez,depression,11,2024-07-25,2025-09-16,152,1
+P0331,74,F,family,Dra. Gutierrez,anxiety,10,2025-02-14,2025-09-09,159,1
+P0332,21,F,individual,Dr. Dominguez,depression,20,2025-04-11,2025-11-18,89,1
+P0333,40,F,individual,Dr. Min,depression,25,2024-10-01,2025-12-23,54,0
+P0334,59,M,couple,Dr. Dominguez,anxiety,7,2024-12-25,2025-08-19,180,1
+P0335,56,F,family,Dra. Rodriguez,anxiety,9,2025-01-14,2025-11-04,103,1
+P0336,42,M,family,Dr. Min,anxiety,16,2025-04-02,2025-10-21,117,1
+P0337,32,M,individual,Dra. Rodriguez,anxiety,13,2024-11-19,2025-09-30,138,1
+P0338,40,M,family,Dr. Min,anxiety,5,2025-03-15,2025-08-05,194,1
+P0339,37,F,individual,Dra. Rodriguez,stress,26,2024-09-22,2026-06-30,-135,1
+P0340,30,F,couple,Dr. Min,anxiety,5,2025-01-22,2025-08-05,194,1
+P0341,39,F,individual,Dra. Rodriguez,depression,16,2025-02-12,2025-10-21,117,1
+P0342,68,M,individual,Dr. Dominguez,stress,10,2025-02-26,2025-11-18,89,1
+P0343,45,M,individual,Dra. Gutierrez,anxiety,14,2024-11-15,2025-10-07,131,1
+P0344,44,F,individual,Dra. Gutierrez,anxiety,25,2025-03-18,2025-12-23,54,0
+P0345,64,M,individual,Dra. Rodriguez,depression,14,2024-10-19,2026-01-13,33,0
+P0346,23,M,individual,Dra. Rodriguez,depression,17,2024-09-23,2025-10-28,110,1
+P0347,28,M,couple,Dra. Rodriguez,depression,7,2025-01-26,2025-08-19,180,1
+P0348,18,M,couple,Dr. Dominguez,depression,24,2024-11-11,2025-12-16,61,1
+P0349,22,M,individual,Dra. Gutierrez,anxiety,17,2024-09-27,2025-10-28,110,1
+P0350,58,F,family,Dra. Rodriguez,depression,25,2024-07-28,2025-12-23,54,0
+P0351,66,M,individual,Dra. Gutierrez,anxiety,5,2024-11-05,2025-08-05,194,1
+P0352,53,F,individual,Dr. Min,relationship conflict,10,2024-07-21,2025-11-18,89,1
+P0353,34,M,individual,Dr. Min,anxiety,26,2024-11-16,2026-06-30,-135,0
+P0354,44,F,individual,Dr. Dominguez,relationship conflict,11,2024-10-29,2025-09-16,152,1
+P0355,62,F,family,Dra. Gutierrez,stress,16,2024-10-11,2026-02-10,5,0
+P0356,23,F,couple,Dr. Dominguez,anxiety,5,2024-08-23,2025-08-05,194,1
+P0357,62,M,individual,Dra. Rodriguez,relationship conflict,21,2025-02-04,2025-11-25,82,1
+P0358,58,M,individual,Dra. Rodriguez,relationship conflict,16,2025-02-14,2026-02-10,5,0
+P0359,29,F,individual,Dra. Rodriguez,depression,16,2024-11-04,2025-10-21,117,1
+P0360,70,M,individual,Dr. Dominguez,anxiety,22,2024-11-07,2025-12-02,75,1
+P0361,25,M,individual,Dr. Min,relationship conflict,7,2024-11-04,2025-10-07,131,1
+P0362,25,M,individual,Dr. Dominguez,depression,9,2024-07-25,2025-09-02,166,1
+P0363,63,F,individual,Dr. Dominguez,stress,15,2025-04-13,2025-10-14,124,1
+P0364,27,F,family,Dr. Min,depression,9,2025-01-29,2025-09-02,166,1
+P0365,61,M,individual,Dr. Dominguez,relationship conflict,22,2024-10-11,2025-12-02,75,1
+P0366,48,F,individual,Dr. Min,depression,14,2024-12-05,2026-01-13,33,0
+P0367,52,F,couple,Dra. Gutierrez,anxiety,12,2024-12-05,2025-09-23,145,1
+P0368,37,F,individual,Dr. Dominguez,anxiety,6,2024-10-17,2025-08-12,187,1
+P0369,38,M,couple,Dra. Rodriguez,relationship conflict,11,2024-10-31,2025-12-02,75,1
+P0370,21,M,couple,Dr. Dominguez,anxiety,5,2024-09-07,2025-08-05,194,1
+P0371,34,F,individual,Dra. Gutierrez,depression,25,2025-02-15,2025-12-23,54,0
+P0372,72,F,individual,Dr. Min,anxiety,28,2024-11-27,2026-01-13,33,0
+P0373,44,M,couple,Dra. Rodriguez,depression,11,2025-02-17,2025-12-02,75,1
+P0374,44,F,individual,Dr. Min,relationship conflict,21,2024-12-28,2025-11-25,82,1
+P0375,57,F,individual,Dra. Gutierrez,anxiety,22,2025-01-08,2026-05-05,-79,0
+P0376,34,F,individual,Dra. Rodriguez,depression,17,2025-01-17,2026-02-24,-9,0
+P0377,41,F,individual,Dra. Gutierrez,anxiety,18,2025-03-25,2025-11-04,103,1
+P0378,19,M,couple,Dr. Min,depression,17,2024-12-25,2026-02-24,-9,0
+P0379,33,F,individual,Dr. Dominguez,stress,22,2024-07-27,2025-12-02,75,1
+P0380,62,M,couple,Dra. Rodriguez,anxiety,18,2024-12-16,2026-03-10,-23,0
+P0381,41,F,couple,Dra. Rodriguez,depression,12,2024-09-20,2025-09-23,145,1
+P0382,59,F,couple,Dra. Gutierrez,anxiety,14,2024-09-02,2026-01-13,33,1
+P0383,45,M,family,Dr. Dominguez,depression,20,2025-03-14,2025-11-18,89,1
+P0384,66,F,individual,Dr. Dominguez,depression,24,2024-10-13,2026-06-02,-107,1
+P0385,26,F,couple,Dr. Dominguez,stress,4,2025-04-05,2025-07-29,201,1
+P0386,25,F,individual,Dra. Rodriguez,depression,26,2025-01-26,2025-12-30,47,0
+P0387,43,M,individual,Dr. Min,depression,13,2024-08-02,2025-09-30,138,1
+P0388,66,M,individual,Dr. Dominguez,anxiety,26,2024-08-13,2025-12-30,47,0
+P0389,74,M,couple,Dr. Min,relationship conflict,7,2025-01-03,2025-08-19,180,1
+P0390,59,M,individual,Dra. Gutierrez,relationship conflict,18,2024-10-26,2025-11-04,103,1
+P0391,52,M,couple,Dra. Gutierrez,anxiety,17,2024-11-21,2025-10-28,110,1
+P0392,73,M,individual,Dra. Gutierrez,anxiety,13,2025-04-16,2025-09-30,138,1
+P0393,33,F,couple,Dra. Gutierrez,anxiety,13,2025-03-10,2025-09-30,138,1
+P0394,21,F,individual,Dra. Gutierrez,depression,28,2024-12-18,2026-01-13,33,0
+P0395,26,F,individual,Dr. Dominguez,stress,5,2024-11-09,2025-09-09,159,1
+P0396,31,F,individual,Dr. Dominguez,depression,21,2024-11-22,2025-11-25,82,1
+P0397,72,F,individual,Dr. Min,depression,18,2024-12-12,2025-11-04,103,1
+P0398,26,M,couple,Dr. Min,anxiety,27,2025-04-04,2026-01-06,40,1
+P0399,71,F,family,Dra. Gutierrez,depression,12,2024-09-17,2025-09-23,145,1
+P0400,34,M,individual,Dr. Dominguez,depression,16,2025-04-05,2025-10-21,117,1
+P0401,33,M,individual,Dra. Gutierrez,depression,15,2025-03-07,2025-10-14,124,1
+P0402,59,M,family,Dr. Dominguez,depression,16,2025-04-14,2026-02-10,5,0
+P0403,49,F,individual,Dra. Rodriguez,depression,20,2024-07-18,2026-04-07,-51,0
+P0404,65,F,couple,Dr. Dominguez,depression,12,2024-12-03,2025-12-16,61,1
+P0405,25,M,couple,Dra. Gutierrez,depression,4,2024-10-27,2025-07-29,201,1
+P0406,63,F,individual,Dra. Gutierrez,anxiety,27,2024-10-27,2026-07-14,-149,0
+P0407,60,M,individual,Dra. Rodriguez,depression,27,2025-01-20,2026-01-06,40,0
+P0408,38,F,couple,Dr. Min,depression,23,2024-09-18,2026-05-19,-93,1
+P0409,71,M,individual,Dra. Gutierrez,anxiety,26,2024-10-04,2026-06-30,-135,0
+P0410,61,M,individual,Dra. Gutierrez,stress,17,2024-08-01,2026-02-24,-9,0
+P0411,57,F,individual,Dra. Rodriguez,anxiety,28,2025-03-21,2026-07-28,-163,1
+P0412,56,F,family,Dr. Min,anxiety,27,2025-01-02,2026-07-14,-149,0
+P0413,72,M,couple,Dr. Min,depression,25,2025-02-10,2025-12-23,54,0
+P0414,71,F,individual,Dra. Rodriguez,anxiety,22,2025-03-07,2025-12-02,75,1
+P0415,39,F,individual,Dra. Gutierrez,depression,20,2025-01-19,2025-11-18,89,1
+P0416,34,M,individual,Dr. Dominguez,stress,19,2024-09-06,2025-11-11,96,1
+P0417,53,F,individual,Dra. Rodriguez,depression,17,2024-12-30,2025-10-28,110,1
+P0418,29,F,couple,Dra. Rodriguez,anxiety,19,2024-11-15,2025-11-11,96,1
+P0419,36,M,couple,Dr. Dominguez,depression,7,2025-01-13,2025-10-07,131,1
+P0420,43,F,couple,Dra. Gutierrez,stress,18,2024-08-06,2025-11-04,103,1
+P0421,31,M,individual,Dra. Gutierrez,depression,23,2025-02-22,2025-12-09,68,1
+P0422,53,F,individual,Dr. Dominguez,relationship conflict,12,2024-08-13,2025-09-23,145,1
+P0423,28,M,individual,Dra. Rodriguez,stress,11,2025-01-12,2025-09-16,152,1
+P0424,28,F,individual,Dr. Dominguez,anxiety,25,2025-01-23,2025-12-23,54,0
+P0425,24,F,family,Dra. Rodriguez,anxiety,12,2024-09-08,2025-09-23,145,1
+P0426,63,M,individual,Dr. Dominguez,stress,21,2024-09-29,2025-11-25,82,1
+P0427,55,F,family,Dra. Gutierrez,anxiety,7,2024-08-31,2025-10-07,131,1
+P0428,27,M,individual,Dra. Gutierrez,anxiety,8,2024-11-10,2025-08-26,173,1
+P0429,39,F,individual,Dra. Gutierrez,anxiety,24,2025-01-29,2025-12-16,61,1
+P0430,32,F,couple,Dra. Rodriguez,anxiety,4,2024-11-08,2025-07-29,201,1
+P0431,48,F,individual,Dra. Rodriguez,depression,11,2024-11-27,2025-09-16,152,1
+P0432,73,M,couple,Dr. Dominguez,depression,7,2024-09-24,2025-08-19,180,1
+P0433,37,F,couple,Dra. Rodriguez,relationship conflict,7,2024-11-14,2025-08-19,180,1
+P0434,49,F,individual,Dr. Min,depression,4,2025-01-07,2025-07-29,201,1
+P0435,45,F,individual,Dr. Dominguez,anxiety,18,2025-02-10,2025-11-04,103,1
+P0436,27,M,couple,Dra. Rodriguez,anxiety,27,2024-11-08,2026-01-06,40,0
+P0437,35,F,individual,Dr. Min,stress,6,2025-03-14,2025-08-12,187,1
+P0438,68,M,couple,Dra. Rodriguez,depression,19,2025-02-08,2026-03-24,-37,0
+P0439,57,F,family,Dra. Rodriguez,anxiety,16,2024-11-02,2025-10-21,117,1
+P0440,62,M,couple,Dr. Min,depression,18,2024-11-18,2025-11-04,103,1
+P0441,20,M,individual,Dr. Dominguez,depression,19,2024-10-18,2025-11-11,96,1
+P0442,64,F,couple,Dr. Min,anxiety,9,2025-02-15,2025-09-02,166,1
+P0443,59,F,individual,Dr. Min,depression,5,2024-07-23,2025-08-05,194,1
+P0444,37,F,couple,Dra. Gutierrez,anxiety,18,2025-03-22,2025-11-04,103,1
+P0445,68,M,individual,Dr. Dominguez,depression,18,2024-08-31,2025-11-04,103,1
+P0446,48,M,individual,Dr. Min,depression,18,2024-09-16,2026-03-10,-23,0
+P0447,62,M,individual,Dr. Dominguez,anxiety,6,2025-03-23,2025-09-23,145,1
+P0448,48,F,individual,Dr. Min,anxiety,14,2025-01-09,2026-01-13,33,0
+P0449,23,F,couple,Dra. Gutierrez,depression,27,2024-11-30,2026-01-06,40,0
+P0450,58,F,individual,Dra. Gutierrez,relationship conflict,26,2024-10-19,2026-06-30,-135,0
+P0451,69,M,individual,Dr. Dominguez,depression,16,2024-12-04,2025-10-21,117,1
+P0452,61,F,couple,Dra. Rodriguez,depression,16,2025-02-24,2026-02-10,5,1
+P0453,57,M,individual,Dra. Gutierrez,stress,11,2024-10-14,2025-09-16,152,1
+P0454,19,M,individual,Dra. Gutierrez,anxiety,12,2025-01-10,2025-12-16,61,1
+P0455,43,F,individual,Dra. Rodriguez,anxiety,17,2025-03-29,2025-10-28,110,1
+P0456,71,M,family,Dr. Dominguez,stress,22,2025-01-17,2026-05-05,-79,0
+P0457,46,M,couple,Dr. Dominguez,anxiety,21,2024-11-04,2025-11-25,82,1
+P0458,26,F,couple,Dr. Dominguez,depression,15,2025-04-09,2025-10-14,124,1
+P0459,47,F,family,Dr. Min,depression,13,2024-11-04,2025-12-30,47,0
+P0460,31,F,individual,Dr. Min,anxiety,11,2024-12-18,2025-09-16,152,1
+P0461,23,F,family,Dra. Rodriguez,anxiety,5,2025-01-04,2025-08-05,194,1
+P0462,34,F,individual,Dra. Rodriguez,relationship conflict,5,2024-12-30,2025-09-09,159,1
+P0463,60,F,individual,Dra. Gutierrez,relationship conflict,5,2024-12-25,2025-08-05,194,1
+P0464,36,F,individual,Dra. Gutierrez,depression,8,2024-12-29,2025-08-26,173,1
+P0465,62,M,couple,Dr. Min,relationship conflict,12,2024-08-25,2025-12-16,61,1
+P0466,68,M,individual,Dra. Gutierrez,anxiety,17,2025-01-06,2025-10-28,110,1
+P0467,31,M,individual,Dra. Gutierrez,anxiety,4,2024-08-15,2025-08-26,173,1
+P0468,50,M,individual,Dr. Min,stress,28,2024-09-24,2026-01-13,33,0
+P0469,19,M,couple,Dra. Rodriguez,anxiety,8,2024-09-02,2025-10-21,117,1
+P0470,26,F,couple,Dra. Gutierrez,relationship conflict,22,2024-10-19,2025-12-02,75,1
+P0471,40,M,family,Dra. Gutierrez,relationship conflict,16,2025-03-19,2026-02-10,5,0
+P0472,20,F,couple,Dr. Min,anxiety,18,2025-01-25,2026-03-10,-23,0
+P0473,62,M,family,Dra. Rodriguez,relationship conflict,27,2025-02-13,2026-01-06,40,1
+P0474,53,F,family,Dr. Min,relationship conflict,5,2025-01-24,2025-08-05,194,1
+P0475,70,F,couple,Dr. Dominguez,depression,21,2024-09-03,2025-11-25,82,1
+P0476,54,F,couple,Dra. Rodriguez,relationship conflict,13,2024-08-04,2025-09-30,138,1
+P0477,69,M,individual,Dra. Gutierrez,depression,16,2025-01-22,2025-10-21,117,1
+P0478,57,F,individual,Dr. Min,anxiety,17,2024-09-25,2025-10-28,110,1
+P0479,43,F,family,Dr. Dominguez,depression,17,2024-08-01,2025-10-28,110,1
+P0480,65,F,couple,Dr. Dominguez,depression,16,2024-09-20,2025-10-21,117,1
+P0481,57,M,individual,Dra. Gutierrez,anxiety,17,2024-11-09,2025-10-28,110,1
+P0482,73,M,individual,Dr. Min,stress,21,2025-01-24,2025-11-25,82,1
+P0483,55,F,individual,Dra. Rodriguez,depression,9,2024-12-11,2025-09-02,166,1
+P0484,55,F,individual,Dra. Rodriguez,anxiety,5,2025-04-12,2025-08-05,194,1
+P0485,47,M,family,Dr. Dominguez,relationship conflict,29,2024-12-06,2026-01-20,26,0
+P0486,57,M,individual,Dr. Dominguez,relationship conflict,16,2024-07-27,2025-10-21,117,1
+P0487,37,M,individual,Dr. Dominguez,stress,29,2024-08-10,2026-08-11,-177,1
+P0488,24,F,individual,Dr. Min,anxiety,21,2024-08-04,2025-11-25,82,1
+P0489,42,M,individual,Dr. Min,stress,21,2024-11-13,2025-11-25,82,1
+P0490,62,M,individual,Dra. Rodriguez,anxiety,26,2024-11-28,2025-12-30,47,0
+P0491,60,F,individual,Dr. Dominguez,depression,28,2025-01-03,2026-01-13,33,0
+P0492,55,F,couple,Dra. Rodriguez,depression,16,2025-02-07,2025-10-21,117,1
+P0493,71,M,couple,Dra. Gutierrez,stress,25,2024-09-01,2025-12-23,54,1
+P0494,57,F,individual,Dr. Dominguez,anxiety,19,2025-01-11,2025-11-11,96,1
+P0495,68,F,couple,Dr. Min,anxiety,10,2025-03-30,2025-09-09,159,1
+P0496,38,M,individual,Dr. Min,anxiety,26,2024-12-15,2025-12-30,47,0
+P0497,48,M,couple,Dra. Rodriguez,relationship conflict,25,2024-10-10,2025-12-23,54,0
+P0498,57,F,individual,Dra. Gutierrez,relationship conflict,9,2024-08-22,2025-09-02,166,1
+P0499,33,F,individual,Dr. Min,stress,14,2024-10-15,2025-10-07,131,1
+P0500,20,F,individual,Dra. Gutierrez,anxiety,15,2024-09-26,2025-10-14,124,1
+P0501,50,F,individual,Dr. Min,anxiety,12,2025-03-05,2025-12-16,61,1
+P0502,46,M,family,Dra. Rodriguez,depression,16,2024-09-15,2026-02-10,5,1
+P0503,56,M,couple,Dr. Min,anxiety,11,2025-01-07,2025-09-16,152,1
+P0504,54,F,individual,Dra. Gutierrez,anxiety,10,2025-02-17,2025-11-18,89,1
+P0505,45,F,individual,Dr. Min,anxiety,21,2024-11-19,2026-04-21,-65,0
+P0506,63,F,individual,Dr. Dominguez,anxiety,7,2025-02-04,2025-08-19,180,1
+P0507,70,M,couple,Dra. Rodriguez,stress,21,2024-11-23,2025-11-25,82,1
+P0508,33,M,couple,Dra. Rodriguez,depression,23,2024-11-20,2026-05-19,-93,0
+P0509,66,F,couple,Dra. Gutierrez,relationship conflict,17,2024-12-16,2025-10-28,110,1
+P0510,18,F,individual,Dra. Gutierrez,anxiety,4,2025-04-19,2025-07-29,201,1
+P0511,68,F,couple,Dr. Min,relationship conflict,22,2025-04-09,2026-05-05,-79,1
+P0512,46,M,individual,Dr. Dominguez,anxiety,6,2025-04-03,2025-09-23,145,1
+P0513,59,M,individual,Dr. Min,anxiety,7,2024-09-12,2025-10-07,131,1
+P0514,28,F,individual,Dra. Rodriguez,anxiety,25,2024-12-07,2026-06-16,-121,1
+P0515,25,M,individual,Dra. Gutierrez,anxiety,17,2025-03-30,2026-02-24,-9,1
+P0516,27,M,family,Dra. Gutierrez,depression,17,2025-04-21,2025-10-28,110,1
+P0517,64,M,couple,Dra. Rodriguez,relationship conflict,20,2024-12-17,2025-11-18,89,1
+P0518,40,F,individual,Dr. Min,stress,6,2024-07-29,2025-08-12,187,1
+P0519,33,M,individual,Dr. Dominguez,stress,9,2025-04-09,2025-11-04,103,1
+P0520,26,F,individual,Dr. Min,stress,12,2024-10-04,2025-12-16,61,1
+P0521,41,F,individual,Dr. Min,depression,8,2024-10-31,2025-10-21,117,1
+P0522,64,F,individual,Dra. Gutierrez,depression,29,2025-02-03,2026-08-11,-177,0
+P0523,55,F,couple,Dra. Rodriguez,depression,26,2025-03-26,2025-12-30,47,0
+P0524,51,M,individual,Dr. Dominguez,anxiety,22,2024-12-28,2026-05-05,-79,0
+P0525,31,M,couple,Dra. Gutierrez,depression,14,2025-02-05,2025-10-07,131,1
+P0526,45,M,couple,Dra. Gutierrez,depression,21,2024-10-20,2025-11-25,82,1
+P0527,62,F,individual,Dra. Gutierrez,anxiety,18,2024-09-18,2025-11-04,103,1
+P0528,40,F,individual,Dr. Min,anxiety,29,2024-12-09,2026-01-20,26,1
+P0529,34,M,individual,Dra. Rodriguez,anxiety,7,2025-02-07,2025-08-19,180,1
+P0530,68,F,individual,Dr. Min,depression,11,2024-10-23,2025-12-02,75,1
+P0531,34,F,family,Dr. Min,depression,23,2025-04-02,2025-12-09,68,1
+P0532,34,F,couple,Dra. Rodriguez,anxiety,19,2025-03-04,2025-11-11,96,1
+P0533,41,F,individual,Dr. Min,anxiety,5,2025-04-19,2025-08-05,194,1
+P0534,31,F,individual,Dr. Dominguez,anxiety,6,2025-01-07,2025-08-12,187,1
+P0535,48,F,family,Dra. Gutierrez,anxiety,8,2024-07-30,2025-10-21,117,1
+P0536,24,M,couple,Dra. Gutierrez,depression,14,2025-02-20,2025-10-07,131,1
+P0537,35,F,couple,Dr. Dominguez,anxiety,11,2024-11-21,2025-12-02,75,1
+P0538,41,M,individual,Dr. Dominguez,depression,13,2024-07-27,2025-09-30,138,1
+P0539,30,F,individual,Dr. Min,anxiety,27,2024-09-25,2026-01-06,40,0
+P0540,49,M,couple,Dr. Dominguez,anxiety,7,2024-11-10,2025-08-19,180,1
+P0541,74,F,couple,Dra. Rodriguez,depression,20,2024-12-25,2025-11-18,89,1
+P0542,69,M,individual,Dr. Min,stress,5,2024-10-31,2025-08-05,194,1
+P0543,71,F,individual,Dr. Dominguez,depression,29,2025-03-13,2026-01-20,26,0
+P0544,39,M,individual,Dra. Rodriguez,relationship conflict,18,2024-12-25,2025-11-04,103,1
+P0545,55,F,family,Dr. Dominguez,anxiety,26,2024-10-19,2026-06-30,-135,0
+P0546,53,F,individual,Dr. Dominguez,depression,21,2024-09-18,2025-11-25,82,1
+P0547,25,M,individual,Dr. Min,depression,7,2024-09-16,2025-08-19,180,1
+P0548,49,F,individual,Dra. Rodriguez,stress,20,2025-03-27,2025-11-18,89,1
+P0549,60,M,individual,Dr. Min,anxiety,13,2024-09-12,2025-12-30,47,0
+P0550,24,F,individual,Dra. Rodriguez,anxiety,4,2024-08-15,2025-07-29,201,1
+P0551,61,F,family,Dra. Gutierrez,depression,12,2024-10-04,2025-12-16,61,1
+P0552,30,F,individual,Dr. Min,anxiety,26,2024-09-22,2025-12-30,47,0
+P0553,33,M,individual,Dra. Gutierrez,relationship conflict,21,2024-10-17,2025-11-25,82,1
+P0554,49,F,family,Dra. Gutierrez,relationship conflict,6,2024-09-04,2025-08-12,187,1
+P0555,48,M,individual,Dr. Min,depression,13,2024-07-23,2025-09-30,138,1
+P0556,25,F,individual,Dr. Dominguez,relationship conflict,16,2024-10-18,2025-10-21,117,1
+P0557,32,F,individual,Dr. Min,anxiety,24,2024-12-29,2025-12-16,61,1
+P0558,70,M,individual,Dra. Rodriguez,stress,7,2024-09-02,2025-10-07,131,1
+P0559,70,M,couple,Dr. Min,anxiety,10,2024-09-25,2025-09-09,159,1
+P0560,25,M,family,Dr. Min,anxiety,17,2025-03-16,2025-10-28,110,1
+P0561,28,F,individual,Dra. Rodriguez,anxiety,6,2024-10-03,2025-08-12,187,1
+P0562,31,F,individual,Dr. Min,anxiety,23,2025-01-16,2026-05-19,-93,0
+P0563,18,F,individual,Dr. Dominguez,depression,8,2025-04-19,2025-10-21,117,1
+P0564,58,M,individual,Dra. Rodriguez,depression,5,2024-10-09,2025-08-05,194,1
+P0565,31,M,individual,Dra. Gutierrez,depression,7,2025-02-15,2025-08-19,180,1
+P0566,31,M,individual,Dr. Dominguez,relationship conflict,9,2024-08-29,2025-09-02,166,1
+P0567,28,F,family,Dr. Min,anxiety,8,2024-10-30,2025-08-26,173,1
+P0568,68,M,individual,Dra. Rodriguez,relationship conflict,8,2025-03-06,2025-10-21,117,1
+P0569,53,F,individual,Dra. Gutierrez,depression,12,2024-10-24,2025-12-16,61,1
+P0570,60,F,individual,Dra. Gutierrez,depression,23,2024-12-24,2025-12-09,68,1
+P0571,42,M,family,Dr. Dominguez,anxiety,18,2025-01-04,2025-11-04,103,1
+P0572,61,F,couple,Dr. Min,anxiety,28,2024-07-21,2026-01-13,33,1
+P0573,47,F,individual,Dra. Rodriguez,depression,6,2025-04-02,2025-09-23,145,1
+P0574,19,F,couple,Dr. Min,depression,22,2025-04-08,2026-05-05,-79,0
+P0575,63,F,couple,Dra. Gutierrez,anxiety,8,2024-08-13,2025-08-26,173,1
+P0576,50,M,individual,Dra. Rodriguez,relationship conflict,20,2024-09-11,2026-04-07,-51,0
+P0577,46,F,couple,Dr. Dominguez,anxiety,23,2024-12-08,2025-12-09,68,1
+P0578,74,M,individual,Dr. Dominguez,stress,24,2024-12-20,2025-12-16,61,1
+P0579,60,M,individual,Dra. Gutierrez,depression,26,2024-09-10,2025-12-30,47,0
+P0580,70,M,couple,Dr. Min,stress,8,2024-12-29,2025-08-26,173,1
+P0581,51,M,individual,Dra. Rodriguez,depression,21,2025-02-01,2025-11-25,82,1
+P0582,54,M,individual,Dra. Rodriguez,anxiety,8,2024-10-25,2025-08-26,173,1
+P0583,30,F,individual,Dra. Gutierrez,stress,20,2025-03-04,2026-04-07,-51,0
+P0584,23,M,couple,Dra. Gutierrez,anxiety,15,2024-11-14,2025-10-14,124,1
+P0585,38,M,individual,Dr. Min,anxiety,12,2024-10-05,2025-09-23,145,1
+P0586,34,M,couple,Dra. Rodriguez,anxiety,11,2025-03-06,2025-12-02,75,1
+P0587,48,M,couple,Dra. Gutierrez,anxiety,11,2025-03-13,2025-12-02,75,1
+P0588,41,F,individual,Dra. Gutierrez,depression,9,2024-12-09,2025-09-02,166,1
+P0589,30,F,individual,Dra. Rodriguez,anxiety,23,2024-10-19,2026-05-19,-93,0
+P0590,21,M,couple,Dra. Gutierrez,depression,4,2025-02-28,2025-07-29,201,1
+P0591,46,M,couple,Dr. Min,stress,18,2025-02-09,2026-03-10,-23,0
+P0592,29,M,individual,Dra. Gutierrez,depression,13,2024-11-28,2025-09-30,138,1
+P0593,20,M,couple,Dra. Gutierrez,stress,17,2024-10-07,2026-02-24,-9,0
+P0594,53,F,couple,Dra. Rodriguez,depression,28,2025-01-11,2026-07-28,-163,0
+P0595,21,F,individual,Dra. Rodriguez,anxiety,29,2024-11-05,2026-08-11,-177,0
+P0596,31,F,individual,Dra. Gutierrez,anxiety,26,2024-11-21,2026-06-30,-135,0
+P0597,56,F,couple,Dra. Gutierrez,depression,22,2024-08-01,2025-12-02,75,1
+P0598,48,M,individual,Dr. Dominguez,anxiety,18,2024-08-05,2025-11-04,103,1
+P0599,37,M,individual,Dra. Gutierrez,stress,24,2024-12-31,2026-06-02,-107,1
+P0600,47,F,family,Dra. Rodriguez,depression,15,2025-03-12,2025-10-14,124,1
+P0601,27,M,individual,Dra. Gutierrez,depression,18,2024-10-07,2026-03-10,-23,0
+P0602,61,F,individual,Dr. Dominguez,stress,11,2024-09-03,2025-12-02,75,1
+P0603,45,F,individual,Dra. Rodriguez,anxiety,11,2024-09-14,2025-09-16,152,1
+P0604,56,M,individual,Dra. Rodriguez,anxiety,20,2024-09-07,2025-11-18,89,1
+P0605,18,F,individual,Dra. Gutierrez,stress,14,2024-08-05,2025-10-07,131,1
+P0606,33,F,couple,Dra. Rodriguez,depression,22,2024-09-23,2025-12-02,75,1
+P0607,68,M,couple,Dra. Gutierrez,relationship conflict,25,2024-08-22,2025-12-23,54,0
+P0608,24,F,individual,Dr. Min,relationship conflict,26,2025-04-14,2026-06-30,-135,0
+P0609,67,F,individual,Dra. Gutierrez,anxiety,9,2024-10-14,2025-09-02,166,1
+P0610,28,M,individual,Dra. Rodriguez,stress,10,2024-10-04,2025-09-09,159,1
+P0611,74,M,individual,Dra. Gutierrez,depression,24,2024-10-16,2025-12-16,61,1
+P0612,62,M,couple,Dr. Min,depression,11,2024-12-05,2025-09-16,152,1
+P0613,56,M,individual,Dr. Min,relationship conflict,23,2025-03-23,2025-12-09,68,1
+P0614,53,F,couple,Dra. Rodriguez,depression,16,2025-01-23,2025-10-21,117,1
+P0615,39,F,individual,Dr. Min,depression,22,2025-03-13,2026-05-05,-79,1
+P0616,61,F,couple,Dra. Gutierrez,depression,17,2025-02-05,2025-10-28,110,1
+P0617,29,F,individual,Dra. Rodriguez,depression,29,2024-12-18,2026-01-20,26,0
+P0618,47,M,individual,Dr. Min,anxiety,26,2024-09-17,2025-12-30,47,0
+P0619,61,M,couple,Dr. Dominguez,anxiety,23,2024-08-13,2026-05-19,-93,0
+P0620,27,M,couple,Dra. Rodriguez,depression,27,2025-01-27,2026-01-06,40,0
+P0621,48,F,individual,Dra. Gutierrez,anxiety,21,2024-08-23,2025-11-25,82,1
+P0622,49,M,individual,Dra. Rodriguez,anxiety,25,2025-01-16,2025-12-23,54,1
+P0623,51,F,individual,Dra. Gutierrez,relationship conflict,26,2025-03-28,2026-06-30,-135,0
+P0624,58,F,couple,Dra. Gutierrez,depression,10,2024-09-24,2025-11-18,89,1
+P0625,65,F,individual,Dra. Rodriguez,stress,8,2024-11-09,2025-10-21,117,1
+P0626,52,M,individual,Dra. Gutierrez,anxiety,18,2024-12-03,2025-11-04,103,1
+P0627,62,M,couple,Dr. Min,stress,21,2024-12-29,2026-04-21,-65,0
+P0628,57,F,couple,Dr. Min,anxiety,25,2024-08-30,2026-06-16,-121,1
+P0629,73,F,individual,Dra. Rodriguez,relationship conflict,23,2024-10-13,2026-05-19,-93,1
+P0630,30,M,couple,Dr. Dominguez,stress,26,2025-04-09,2025-12-30,47,0
+P0631,47,M,individual,Dr. Dominguez,stress,24,2025-02-08,2025-12-16,61,1
+P0632,56,M,individual,Dr. Min,depression,27,2024-09-05,2026-01-06,40,0
+P0633,73,F,couple,Dr. Min,anxiety,22,2024-11-04,2025-12-02,75,1
+P0634,26,F,couple,Dr. Dominguez,depression,18,2024-11-14,2026-03-10,-23,1
+P0635,27,F,individual,Dr. Dominguez,depression,14,2024-08-18,2026-01-13,33,0
+P0636,64,M,individual,Dr. Dominguez,depression,29,2025-04-04,2026-01-20,26,0
+P0637,66,M,individual,Dr. Dominguez,depression,26,2025-03-23,2025-12-30,47,0
+P0638,64,M,individual,Dr. Min,anxiety,14,2025-04-04,2025-10-07,131,1
+P0639,60,F,individual,Dra. Rodriguez,depression,21,2025-02-03,2025-11-25,82,1
+P0640,70,M,couple,Dr. Min,relationship conflict,21,2025-03-22,2025-11-25,82,1
+P0641,28,F,couple,Dr. Min,anxiety,17,2024-11-04,2025-10-28,110,1
+P0642,51,F,family,Dr. Dominguez,stress,22,2024-11-17,2025-12-02,75,1
+P0643,26,F,couple,Dr. Dominguez,depression,16,2025-03-31,2026-02-10,5,1
+P0644,48,M,individual,Dr. Min,anxiety,25,2024-09-11,2026-06-16,-121,0
+P0645,57,M,individual,Dr. Min,depression,16,2025-01-03,2026-02-10,5,0
+P0646,62,M,individual,Dr. Dominguez,depression,8,2025-02-14,2025-08-26,173,1
+P0647,67,M,family,Dr. Dominguez,anxiety,5,2024-10-28,2025-09-09,159,1
+P0648,39,F,individual,Dr. Dominguez,relationship conflict,11,2024-11-30,2025-12-02,75,1
+P0649,36,F,individual,Dra. Rodriguez,depression,9,2024-10-30,2025-09-02,166,1
+P0650,25,F,couple,Dr. Min,anxiety,16,2025-04-19,2025-10-21,117,1
+P0651,56,M,individual,Dr. Dominguez,anxiety,20,2025-01-05,2025-11-18,89,1
+P0652,39,F,couple,Dr. Min,relationship conflict,16,2025-03-03,2025-10-21,117,1
+P0653,37,F,individual,Dra. Gutierrez,depression,27,2024-09-27,2026-07-14,-149,1
+P0654,64,F,individual,Dr. Min,anxiety,23,2024-08-29,2025-12-09,68,1
+P0655,62,M,couple,Dra. Gutierrez,depression,15,2024-08-06,2026-01-27,19,1
+P0656,26,M,individual,Dr. Min,depression,8,2024-10-03,2025-08-26,173,1
+P0657,33,M,individual,Dra. Rodriguez,depression,21,2025-02-06,2025-11-25,82,1
+P0658,67,M,individual,Dra. Gutierrez,anxiety,25,2024-09-20,2026-06-16,-121,0
+P0659,29,F,individual,Dr. Min,anxiety,12,2025-03-16,2025-09-23,145,1
+P0660,45,M,individual,Dra. Rodriguez,depression,17,2025-03-17,2025-10-28,110,1
+P0661,50,F,individual,Dra. Rodriguez,depression,25,2024-10-04,2025-12-23,54,0
+P0662,51,F,individual,Dra. Gutierrez,depression,5,2025-04-09,2025-09-09,159,1
+P0663,30,M,individual,Dr. Min,anxiety,6,2025-02-02,2025-09-23,145,1
+P0664,24,F,couple,Dr. Min,relationship conflict,16,2024-09-15,2025-10-21,117,1
+P0665,51,M,family,Dra. Gutierrez,depression,6,2024-11-12,2025-08-12,187,1
+P0666,63,M,individual,Dr. Dominguez,anxiety,13,2025-02-13,2025-09-30,138,1
+P0667,64,M,individual,Dr. Dominguez,depression,17,2024-08-22,2025-10-28,110,1
+P0668,40,M,individual,Dr. Dominguez,relationship conflict,29,2025-02-28,2026-01-20,26,0
+P0669,68,F,couple,Dr. Dominguez,anxiety,16,2025-01-13,2026-02-10,5,1
+P0670,21,F,individual,Dr. Min,anxiety,29,2025-02-15,2026-08-11,-177,1
+P0671,40,F,family,Dra. Gutierrez,relationship conflict,9,2024-09-14,2025-09-02,166,1
+P0672,24,F,couple,Dra. Rodriguez,anxiety,21,2024-07-18,2026-04-21,-65,0
+P0673,37,M,couple,Dra. Gutierrez,anxiety,10,2024-09-21,2025-11-18,89,1
+P0674,72,M,couple,Dra. Gutierrez,depression,22,2025-01-12,2026-05-05,-79,1
+P0675,71,M,individual,Dra. Gutierrez,anxiety,8,2024-08-20,2025-10-21,117,1
+P0676,63,M,family,Dra. Rodriguez,stress,22,2025-03-23,2025-12-02,75,1
+P0677,70,M,individual,Dr. Dominguez,relationship conflict,14,2024-08-01,2025-10-07,131,1
+P0678,65,F,family,Dr. Dominguez,depression,7,2024-12-28,2025-10-07,131,1
+P0679,40,F,individual,Dra. Gutierrez,anxiety,5,2024-12-02,2025-08-05,194,1
+P0680,28,M,individual,Dr. Dominguez,anxiety,13,2025-01-20,2025-12-30,47,1
+P0681,26,M,couple,Dra. Rodriguez,stress,28,2024-12-21,2026-01-13,33,1
+P0682,51,M,couple,Dra. Rodriguez,depression,25,2024-11-04,2025-12-23,54,1
+P0683,61,M,couple,Dra. Gutierrez,depression,29,2025-04-19,2026-01-20,26,1
+P0684,39,M,individual,Dra. Rodriguez,anxiety,26,2024-10-19,2026-06-30,-135,0
+P0685,57,F,couple,Dr. Dominguez,stress,27,2024-12-13,2026-01-06,40,1
+P0686,46,M,couple,Dr. Dominguez,anxiety,4,2024-07-20,2025-07-29,201,1
+P0687,35,M,individual,Dr. Dominguez,depression,28,2024-10-30,2026-01-13,33,0
+P0688,46,F,couple,Dr. Dominguez,anxiety,27,2025-02-24,2026-07-14,-149,1
+P0689,22,F,individual,Dr. Min,relationship conflict,27,2025-01-21,2026-01-06,40,1
+P0690,51,M,individual,Dra. Gutierrez,stress,29,2024-11-24,2026-01-20,26,0
+P0691,74,M,individual,Dra. Gutierrez,depression,9,2024-10-25,2025-11-04,103,1
+P0692,55,M,individual,Dr. Dominguez,anxiety,15,2024-11-09,2025-10-14,124,1
+P0693,58,M,couple,Dra. Gutierrez,stress,4,2025-02-16,2025-08-26,173,1
+P0694,31,M,individual,Dr. Min,anxiety,5,2024-10-14,2025-08-05,194,1
+P0695,48,F,couple,Dr. Dominguez,anxiety,23,2024-12-26,2025-12-09,68,1
+P0696,68,M,individual,Dra. Rodriguez,depression,19,2025-02-11,2025-11-11,96,1
+P0697,30,M,individual,Dra. Gutierrez,depression,28,2025-02-16,2026-01-13,33,1
+P0698,24,F,individual,Dr. Min,anxiety,24,2024-09-04,2025-12-16,61,1
+P0699,66,M,couple,Dr. Min,relationship conflict,14,2024-10-01,2025-10-07,131,1
+P0700,25,M,individual,Dra. Rodriguez,depression,26,2024-10-18,2026-06-30,-135,1
+P0701,63,F,individual,Dra. Rodriguez,anxiety,10,2024-12-04,2025-11-18,89,1
+P0702,59,F,individual,Dra. Gutierrez,depression,19,2024-09-18,2025-11-11,96,1
+P0703,52,M,family,Dr. Dominguez,anxiety,19,2025-01-10,2026-03-24,-37,0
+P0704,23,F,couple,Dr. Min,anxiety,22,2024-11-03,2026-05-05,-79,1
+P0705,54,M,individual,Dra. Rodriguez,stress,22,2024-12-30,2026-05-05,-79,0
+P0706,23,F,individual,Dra. Gutierrez,depression,10,2024-10-21,2025-09-09,159,1
+P0707,18,M,couple,Dr. Min,anxiety,21,2024-10-17,2026-04-21,-65,1
+P0708,64,F,individual,Dr. Dominguez,anxiety,24,2025-04-14,2026-06-02,-107,0
+P0709,41,F,individual,Dra. Rodriguez,relationship conflict,19,2024-12-12,2026-03-24,-37,0
+P0710,71,M,individual,Dra. Rodriguez,relationship conflict,22,2024-10-28,2025-12-02,75,1
+P0711,40,M,family,Dra. Gutierrez,stress,4,2024-08-21,2025-07-29,201,1
+P0712,60,F,family,Dra. Rodriguez,depression,7,2025-04-15,2025-08-19,180,1
+P0713,48,F,individual,Dra. Rodriguez,depression,25,2025-04-11,2025-12-23,54,0
+P0714,62,F,couple,Dra. Gutierrez,relationship conflict,23,2024-10-30,2025-12-09,68,1
+P0715,42,M,individual,Dr. Dominguez,depression,13,2024-12-26,2025-09-30,138,1
+P0716,21,F,couple,Dr. Min,anxiety,17,2024-10-17,2025-10-28,110,1
+P0717,46,F,couple,Dra. Rodriguez,relationship conflict,12,2024-12-18,2025-12-16,61,1
+P0718,49,F,individual,Dr. Dominguez,anxiety,20,2024-09-29,2025-11-18,89,1
+P0719,49,M,individual,Dra. Gutierrez,depression,18,2024-07-21,2025-11-04,103,1
+P0720,72,M,individual,Dra. Gutierrez,anxiety,16,2024-09-18,2026-02-10,5,0
+P0721,32,F,couple,Dra. Rodriguez,depression,20,2024-07-25,2025-11-18,89,1
+P0722,49,M,individual,Dr. Dominguez,relationship conflict,26,2024-10-10,2025-12-30,47,0
+P0723,59,F,individual,Dr. Dominguez,relationship conflict,17,2025-04-22,2025-10-28,110,1
+P0724,43,F,individual,Dr. Min,anxiety,29,2024-12-06,2026-01-20,26,0
+P0725,57,M,couple,Dr. Dominguez,anxiety,14,2025-01-02,2025-10-07,131,1
+P0726,41,M,family,Dra. Gutierrez,stress,12,2024-10-15,2025-09-23,145,1
+P0727,33,F,individual,Dra. Rodriguez,relationship conflict,12,2024-09-19,2025-12-16,61,1
+P0728,21,F,individual,Dra. Gutierrez,anxiety,18,2024-09-21,2026-03-10,-23,0
+P0729,73,M,couple,Dr. Min,stress,4,2024-12-04,2025-07-29,201,1
+P0730,62,F,couple,Dra. Gutierrez,stress,7,2025-01-01,2025-10-07,131,1
+P0731,47,M,individual,Dra. Rodriguez,anxiety,25,2025-03-22,2026-06-16,-121,0
+P0732,31,M,individual,Dra. Gutierrez,depression,8,2025-02-07,2025-10-21,117,1
+P0733,22,F,individual,Dra. Gutierrez,anxiety,5,2024-12-18,2025-08-05,194,1
+P0734,61,F,couple,Dra. Gutierrez,relationship conflict,22,2024-12-09,2025-12-02,75,1
+P0735,69,F,individual,Dr. Dominguez,stress,18,2024-12-22,2026-03-10,-23,1
+P0736,41,F,couple,Dra. Rodriguez,anxiety,5,2025-03-29,2025-08-05,194,1
+P0737,72,F,couple,Dr. Dominguez,anxiety,19,2024-11-01,2025-11-11,96,1
+P0738,71,F,individual,Dr. Dominguez,anxiety,8,2025-03-08,2025-08-26,173,1
+P0739,21,M,couple,Dra. Gutierrez,depression,19,2024-10-08,2025-11-11,96,1
+P0740,74,M,individual,Dra. Rodriguez,anxiety,16,2024-08-16,2025-10-21,117,1
+P0741,40,M,individual,Dr. Min,anxiety,9,2024-12-01,2025-11-04,103,1
+P0742,54,M,individual,Dr. Min,depression,17,2024-08-30,2025-10-28,110,1
+P0743,62,F,couple,Dra. Gutierrez,anxiety,24,2024-09-16,2025-12-16,61,1
+P0744,40,M,individual,Dr. Dominguez,anxiety,5,2024-07-21,2025-09-09,159,1
+P0745,21,M,individual,Dra. Rodriguez,relationship conflict,27,2024-08-24,2026-07-14,-149,0
+P0746,45,M,individual,Dr. Dominguez,anxiety,21,2025-03-23,2025-11-25,82,1
+P0747,66,M,family,Dra. Rodriguez,depression,28,2025-03-14,2026-01-13,33,0
+P0748,57,F,couple,Dr. Dominguez,anxiety,8,2024-08-23,2025-08-26,173,1
+P0749,48,F,couple,Dr. Min,anxiety,12,2024-12-20,2025-12-16,61,1
+P0750,62,M,individual,Dra. Rodriguez,stress,16,2024-08-10,2025-10-21,117,1
+P0751,35,F,individual,Dr. Min,depression,9,2025-01-16,2025-09-02,166,1
+P0752,35,F,individual,Dra. Gutierrez,depression,14,2025-03-11,2025-10-07,131,1
+P0753,50,F,individual,Dr. Dominguez,stress,24,2024-09-14,2025-12-16,61,1
+P0754,65,F,individual,Dra. Rodriguez,anxiety,16,2025-01-17,2025-10-21,117,1
+P0755,48,F,individual,Dra. Rodriguez,stress,23,2024-12-10,2026-05-19,-93,0
+P0756,21,M,individual,Dr. Dominguez,depression,15,2024-08-21,2026-01-27,19,0
+P0757,23,M,individual,Dr. Min,depression,13,2024-09-08,2025-09-30,138,1
+P0758,35,M,individual,Dr. Min,depression,8,2025-04-11,2025-08-26,173,1
+P0759,36,F,individual,Dr. Dominguez,stress,19,2025-03-08,2025-11-11,96,1
+P0760,47,F,individual,Dra. Gutierrez,depression,23,2024-09-20,2025-12-09,68,1
+P0761,32,F,individual,Dr. Dominguez,depression,27,2025-01-27,2026-01-06,40,0
+P0762,25,M,couple,Dr. Dominguez,depression,9,2024-09-12,2025-11-04,103,1
+P0763,41,F,individual,Dr. Dominguez,relationship conflict,27,2025-01-14,2026-01-06,40,1
+P0764,26,F,individual,Dr. Min,depression,25,2024-09-23,2025-12-23,54,1
+P0765,23,M,couple,Dr. Min,depression,13,2025-02-26,2025-09-30,138,1
+P0766,37,M,individual,Dr. Dominguez,anxiety,11,2024-08-16,2025-09-16,152,1
+P0767,56,F,couple,Dr. Dominguez,stress,10,2025-02-04,2025-09-09,159,1
+P0768,33,M,couple,Dr. Min,anxiety,6,2024-11-04,2025-08-12,187,1
+P0769,34,M,individual,Dr. Dominguez,anxiety,7,2025-03-07,2025-10-07,131,1
+P0770,67,F,couple,Dra. Rodriguez,stress,22,2024-11-25,2025-12-02,75,1
+P0771,59,M,individual,Dr. Dominguez,depression,23,2024-08-28,2026-05-19,-93,0
+P0772,54,M,couple,Dr. Min,relationship conflict,5,2024-12-25,2025-09-09,159,1
+P0773,27,F,couple,Dr. Min,depression,15,2025-02-23,2025-10-14,124,1
+P0774,58,M,family,Dra. Rodriguez,anxiety,29,2025-01-02,2026-01-20,26,0
+P0775,34,M,couple,Dr. Dominguez,depression,23,2025-01-04,2025-12-09,68,1
+P0776,39,F,individual,Dr. Min,stress,19,2024-07-19,2026-03-24,-37,1
+P0777,28,F,family,Dra. Rodriguez,relationship conflict,4,2025-03-20,2025-07-29,201,1
+P0778,39,M,couple,Dra. Gutierrez,depression,17,2025-04-09,2025-10-28,110,1
+P0779,48,M,couple,Dra. Gutierrez,anxiety,15,2024-10-18,2026-01-27,19,0
+P0780,48,F,individual,Dr. Dominguez,relationship conflict,4,2024-08-31,2025-08-26,173,1
+P0781,60,F,individual,Dra. Gutierrez,relationship conflict,5,2025-02-17,2025-08-05,194,1
+P0782,50,M,family,Dr. Dominguez,relationship conflict,6,2024-12-16,2025-08-12,187,1
+P0783,63,M,individual,Dr. Min,depression,9,2024-10-06,2025-09-02,166,1
+P0784,66,M,individual,Dra. Gutierrez,depression,29,2024-08-30,2026-01-20,26,0
+P0785,53,M,individual,Dra. Rodriguez,anxiety,22,2024-09-24,2026-05-05,-79,0
+P0786,50,F,individual,Dra. Gutierrez,stress,21,2024-11-14,2025-11-25,82,1
+P0787,50,F,family,Dr. Dominguez,relationship conflict,10,2025-02-03,2025-09-09,159,1
+P0788,53,F,individual,Dr. Dominguez,depression,8,2025-02-10,2025-08-26,173,1
+P0789,21,F,individual,Dra. Rodriguez,depression,27,2024-11-14,2026-01-06,40,0
+P0790,52,M,individual,Dra. Rodriguez,anxiety,21,2024-12-06,2025-11-25,82,1
+P0791,55,M,individual,Dr. Min,anxiety,23,2024-08-14,2025-12-09,68,1
+P0792,72,M,couple,Dra. Gutierrez,stress,24,2024-12-07,2025-12-16,61,1
+P0793,53,M,individual,Dra. Gutierrez,relationship conflict,17,2025-03-13,2026-02-24,-9,0
+P0794,27,M,individual,Dra. Gutierrez,relationship conflict,27,2024-10-10,2026-01-06,40,1
+P0795,58,F,couple,Dr. Min,depression,29,2025-03-20,2026-01-20,26,1
+P0796,62,M,family,Dra. Gutierrez,anxiety,9,2024-09-08,2025-09-02,166,1
+P0797,54,M,individual,Dr. Min,depression,27,2025-04-22,2026-01-06,40,1
+P0798,68,M,individual,Dr. Min,anxiety,23,2025-01-14,2026-05-19,-93,0
+P0799,73,M,individual,Dra. Rodriguez,depression,8,2025-02-09,2025-10-21,117,1
+P0800,26,F,individual,Dra. Rodriguez,stress,6,2024-12-29,2025-08-12,187,1
+P0801,60,M,individual,Dr. Dominguez,depression,26,2024-07-27,2025-12-30,47,1
+P0802,72,F,individual,Dra. Rodriguez,anxiety,21,2024-10-13,2025-11-25,82,1
+P0803,23,F,individual,Dr. Min,anxiety,9,2025-04-02,2025-09-02,166,1
+P0804,72,M,couple,Dra. Rodriguez,depression,18,2024-09-22,2025-11-04,103,1
+P0805,65,F,couple,Dra. Gutierrez,anxiety,22,2025-03-11,2025-12-02,75,1
+P0806,71,M,couple,Dra. Gutierrez,relationship conflict,27,2024-08-04,2026-07-14,-149,0
+P0807,50,F,individual,Dr. Min,depression,17,2025-01-24,2025-10-28,110,1
+P0808,51,F,individual,Dra. Rodriguez,depression,5,2025-04-15,2025-08-05,194,1
+P0809,72,M,individual,Dr. Min,anxiety,11,2025-01-01,2025-09-16,152,1
+P0810,63,F,couple,Dra. Rodriguez,anxiety,11,2024-12-11,2025-09-16,152,1
+P0811,60,M,couple,Dra. Gutierrez,stress,17,2025-02-13,2025-10-28,110,1
+P0812,46,M,individual,Dra. Gutierrez,stress,13,2024-10-28,2025-09-30,138,1
+P0813,40,M,couple,Dra. Gutierrez,anxiety,10,2024-11-03,2025-09-09,159,1
+P0814,74,M,individual,Dr. Dominguez,anxiety,18,2025-01-01,2025-11-04,103,1
+P0815,66,F,individual,Dr. Min,depression,23,2024-12-13,2025-12-09,68,1
+P0816,58,F,individual,Dr. Dominguez,stress,16,2024-12-27,2026-02-10,5,1
+P0817,38,M,individual,Dr. Min,relationship conflict,11,2024-08-07,2025-09-16,152,1
+P0818,21,F,couple,Dra. Gutierrez,anxiety,12,2025-03-31,2025-09-23,145,1
+P0819,59,F,individual,Dr. Dominguez,depression,29,2025-01-19,2026-08-11,-177,0
+P0820,47,M,couple,Dra. Rodriguez,anxiety,28,2024-09-03,2026-07-28,-163,0
+P0821,64,F,family,Dra. Gutierrez,depression,18,2024-07-27,2025-11-04,103,1
+P0822,58,M,individual,Dr. Min,anxiety,11,2025-01-18,2025-09-16,152,1
+P0823,54,F,individual,Dr. Dominguez,anxiety,12,2024-12-12,2025-12-16,61,1
+P0824,49,F,family,Dra. Gutierrez,stress,5,2024-10-21,2025-08-05,194,1
+P0825,28,F,individual,Dr. Min,depression,8,2025-03-20,2025-08-26,173,1
+P0826,33,F,individual,Dra. Gutierrez,anxiety,21,2025-04-05,2026-04-21,-65,0
+P0827,45,F,individual,Dra. Gutierrez,stress,29,2024-07-28,2026-01-20,26,0
+P0828,72,M,individual,Dr. Dominguez,stress,8,2024-09-02,2025-08-26,173,1
+P0829,35,F,individual,Dr. Min,depression,10,2025-02-12,2025-09-09,159,1
+P0830,72,F,individual,Dra. Gutierrez,anxiety,23,2025-01-06,2025-12-09,68,1
+P0831,69,F,couple,Dr. Min,relationship conflict,11,2024-08-20,2025-09-16,152,1
+P0832,35,F,individual,Dra. Rodriguez,stress,13,2024-09-17,2025-09-30,138,1
+P0833,59,M,individual,Dra. Rodriguez,depression,12,2024-09-16,2025-09-23,145,1
+P0834,24,M,family,Dra. Rodriguez,anxiety,11,2024-12-31,2025-12-02,75,1
+P0835,28,F,individual,Dr. Dominguez,anxiety,4,2025-02-01,2025-07-29,201,1
+P0836,58,F,couple,Dra. Rodriguez,depression,6,2024-12-13,2025-08-12,187,1
+P0837,73,F,couple,Dra. Gutierrez,depression,21,2024-12-25,2025-11-25,82,1
+P0838,71,M,couple,Dr. Dominguez,depression,16,2024-08-05,2026-02-10,5,1
+P0839,26,F,individual,Dra. Rodriguez,depression,25,2025-02-10,2025-12-23,54,0
+P0840,49,M,individual,Dra. Rodriguez,depression,26,2025-03-31,2025-12-30,47,0
+P0841,73,M,individual,Dra. Rodriguez,depression,12,2025-02-11,2025-12-16,61,1
+P0842,18,F,individual,Dr. Dominguez,anxiety,28,2025-04-16,2026-01-13,33,0
+P0843,64,M,couple,Dr. Min,relationship conflict,18,2024-09-24,2026-03-10,-23,1
+P0844,30,F,individual,Dr. Min,depression,5,2024-09-13,2025-08-05,194,1
+P0845,59,M,individual,Dr. Min,anxiety,5,2024-09-23,2025-08-05,194,1
+P0846,60,M,couple,Dra. Rodriguez,anxiety,5,2024-11-28,2025-08-05,194,1
+P0847,58,F,family,Dra. Rodriguez,anxiety,7,2024-09-16,2025-08-19,180,1
+P0848,70,F,individual,Dra. Rodriguez,anxiety,5,2025-01-31,2025-08-05,194,1
+P0849,55,F,couple,Dra. Rodriguez,relationship conflict,20,2024-10-10,2025-11-18,89,1
+P0850,23,M,individual,Dra. Gutierrez,relationship conflict,24,2025-04-04,2025-12-16,61,1
+P0851,49,M,couple,Dr. Dominguez,depression,22,2025-03-08,2025-12-02,75,1
+P0852,35,M,individual,Dr. Dominguez,relationship conflict,29,2025-04-18,2026-01-20,26,0
+P0853,54,M,individual,Dra. Rodriguez,anxiety,25,2024-10-18,2026-06-16,-121,0
+P0854,22,M,individual,Dra. Rodriguez,depression,25,2025-02-28,2025-12-23,54,1
+P0855,74,F,individual,Dra. Rodriguez,anxiety,10,2024-09-23,2025-09-09,159,1
+P0856,48,M,individual,Dra. Gutierrez,stress,6,2024-10-06,2025-08-12,187,1
+P0857,18,F,couple,Dr. Dominguez,anxiety,10,2024-11-03,2025-11-18,89,1
+P0858,51,M,individual,Dra. Gutierrez,stress,22,2025-04-03,2025-12-02,75,1
+P0859,53,M,couple,Dra. Rodriguez,anxiety,4,2025-01-16,2025-08-26,173,1
+P0860,26,M,individual,Dra. Rodriguez,anxiety,12,2024-09-19,2025-09-23,145,1
+P0861,23,M,individual,Dr. Dominguez,depression,29,2024-09-06,2026-01-20,26,0
+P0862,32,M,individual,Dr. Dominguez,relationship conflict,23,2025-04-01,2026-05-19,-93,0
+P0863,19,M,individual,Dra. Gutierrez,relationship conflict,8,2025-04-15,2025-10-21,117,1
+P0864,20,M,individual,Dra. Gutierrez,depression,12,2025-02-10,2025-12-16,61,1
+P0865,33,M,individual,Dra. Rodriguez,depression,28,2024-10-13,2026-01-13,33,0
+P0866,69,F,family,Dr. Min,depression,6,2024-12-14,2025-09-23,145,1
+P0867,74,M,couple,Dr. Min,anxiety,25,2024-12-17,2025-12-23,54,0
+P0868,73,F,individual,Dra. Rodriguez,relationship conflict,10,2025-04-08,2025-09-09,159,1
+P0869,70,F,family,Dra. Gutierrez,anxiety,23,2024-10-05,2026-05-19,-93,0
+P0870,39,M,couple,Dra. Gutierrez,relationship conflict,14,2025-01-29,2025-10-07,131,1
+P0871,72,M,individual,Dra. Rodriguez,depression,11,2024-07-29,2025-12-02,75,1
+P0872,68,M,individual,Dra. Rodriguez,depression,6,2024-08-30,2025-08-12,187,1
+P0873,39,F,individual,Dra. Gutierrez,anxiety,6,2025-04-07,2025-08-12,187,1
+P0874,54,M,couple,Dr. Min,anxiety,25,2025-04-13,2025-12-23,54,1
+P0875,27,M,family,Dr. Min,anxiety,18,2025-01-05,2026-03-10,-23,0
+P0876,40,M,family,Dra. Rodriguez,anxiety,6,2025-01-18,2025-09-23,145,1
+P0877,22,F,individual,Dr. Dominguez,relationship conflict,10,2024-09-11,2025-09-09,159,1
+P0878,48,M,individual,Dr. Min,depression,21,2025-02-25,2025-11-25,82,1
+P0879,30,F,individual,Dra. Rodriguez,relationship conflict,12,2025-02-23,2025-09-23,145,1
+P0880,73,M,family,Dr. Min,depression,27,2025-02-27,2026-07-14,-149,0
+P0881,46,F,individual,Dr. Min,relationship conflict,26,2024-09-23,2025-12-30,47,1
+P0882,27,M,individual,Dra. Rodriguez,anxiety,29,2024-10-07,2026-01-20,26,1
+P0883,74,F,individual,Dra. Gutierrez,anxiety,18,2024-12-05,2025-11-04,103,1
+P0884,18,F,individual,Dr. Dominguez,stress,11,2024-09-06,2025-09-16,152,1
+P0885,52,F,couple,Dr. Dominguez,anxiety,4,2024-10-15,2025-07-29,201,1
+P0886,47,M,individual,Dra. Gutierrez,stress,25,2024-10-02,2025-12-23,54,1
+P0887,50,F,individual,Dra. Rodriguez,stress,24,2024-08-18,2026-06-02,-107,0
+P0888,59,M,individual,Dr. Min,anxiety,10,2025-01-07,2025-11-18,89,1
+P0889,30,F,individual,Dra. Gutierrez,anxiety,4,2025-03-23,2025-08-26,173,1
+P0890,33,M,individual,Dra. Gutierrez,anxiety,8,2024-09-05,2025-10-21,117,1
+P0891,69,F,couple,Dra. Gutierrez,stress,20,2024-10-25,2025-11-18,89,1
+P0892,44,M,individual,Dr. Min,relationship conflict,21,2025-03-08,2025-11-25,82,1
+P0893,31,F,individual,Dra. Gutierrez,anxiety,16,2024-08-20,2026-02-10,5,0
+P0894,64,F,individual,Dr. Min,anxiety,22,2024-10-29,2025-12-02,75,1
+P0895,23,F,couple,Dra. Gutierrez,depression,27,2025-01-15,2026-01-06,40,0
+P0896,68,F,individual,Dr. Min,depression,22,2025-04-18,2025-12-02,75,1
+P0897,69,F,couple,Dr. Min,anxiety,19,2024-11-01,2026-03-24,-37,0
+P0898,65,F,individual,Dra. Gutierrez,relationship conflict,18,2024-10-14,2025-11-04,103,1
+P0899,59,F,individual,Dr. Min,anxiety,23,2024-08-30,2025-12-09,68,1
+P0900,56,F,individual,Dr. Min,depression,13,2024-08-02,2025-09-30,138,1
+P0901,48,M,individual,Dr. Dominguez,stress,29,2024-09-25,2026-01-20,26,0
+P0902,68,M,individual,Dra. Rodriguez,depression,27,2024-10-31,2026-01-06,40,0
+P0903,67,M,family,Dr. Min,anxiety,11,2024-09-30,2025-12-02,75,1
+P0904,20,M,family,Dra. Gutierrez,stress,12,2024-07-21,2025-09-23,145,1
+P0905,67,F,couple,Dra. Gutierrez,depression,11,2025-03-04,2025-09-16,152,1
+P0906,22,M,individual,Dr. Dominguez,depression,8,2024-11-14,2025-08-26,173,1
+P0907,25,F,individual,Dr. Dominguez,depression,25,2024-08-18,2025-12-23,54,0
+P0908,66,F,individual,Dra. Gutierrez,depression,15,2024-10-18,2025-10-14,124,1
+P0909,72,M,family,Dra. Gutierrez,depression,21,2025-03-24,2025-11-25,82,1
+P0910,62,F,individual,Dr. Min,depression,7,2024-12-19,2025-08-19,180,1
+P0911,39,F,family,Dr. Dominguez,stress,20,2024-08-25,2025-11-18,89,1
+P0912,53,F,couple,Dr. Dominguez,anxiety,14,2025-04-09,2025-10-07,131,1
+P0913,47,M,couple,Dr. Dominguez,anxiety,8,2025-01-04,2025-08-26,173,1
+P0914,52,F,individual,Dra. Rodriguez,depression,21,2024-08-30,2025-11-25,82,1
+P0915,49,F,couple,Dr. Dominguez,anxiety,24,2024-07-17,2026-06-02,-107,0
+P0916,28,F,individual,Dra. Gutierrez,relationship conflict,6,2024-10-17,2025-08-12,187,1
+P0917,59,F,individual,Dr. Min,stress,28,2025-02-15,2026-07-28,-163,0
+P0918,72,F,individual,Dra. Rodriguez,anxiety,28,2025-01-06,2026-01-13,33,0
+P0919,63,F,individual,Dr. Min,relationship conflict,4,2025-01-03,2025-07-29,201,1
+P0920,21,M,couple,Dra. Gutierrez,anxiety,13,2025-02-20,2025-12-30,47,0
+P0921,62,M,couple,Dra. Gutierrez,depression,22,2025-03-04,2025-12-02,75,1
+P0922,42,F,individual,Dr. Min,anxiety,14,2024-08-26,2026-01-13,33,1
+P0923,56,F,individual,Dra. Gutierrez,relationship conflict,7,2024-09-29,2025-08-19,180,1
+P0924,33,F,individual,Dra. Rodriguez,stress,19,2024-11-21,2025-11-11,96,1
+P0925,21,F,individual,Dra. Rodriguez,anxiety,23,2025-01-31,2025-12-09,68,1
+P0926,72,F,individual,Dr. Min,stress,26,2024-10-14,2025-12-30,47,1
+P0927,22,F,family,Dra. Gutierrez,depression,24,2024-12-01,2025-12-16,61,1
+P0928,54,M,individual,Dra. Rodriguez,depression,13,2024-09-26,2025-09-30,138,1
+P0929,56,M,family,Dra. Rodriguez,relationship conflict,11,2024-09-22,2025-09-16,152,1
+P0930,21,F,individual,Dra. Rodriguez,anxiety,18,2024-09-13,2026-03-10,-23,0
+P0931,22,F,individual,Dr. Dominguez,stress,28,2024-11-05,2026-07-28,-163,0
+P0932,44,F,individual,Dr. Min,anxiety,19,2025-02-17,2025-11-11,96,1
+P0933,57,M,couple,Dr. Dominguez,depression,7,2025-03-22,2025-08-19,180,1
+P0934,44,M,individual,Dr. Min,depression,23,2024-07-20,2025-12-09,68,1
+P0935,37,F,individual,Dra. Gutierrez,depression,8,2024-10-27,2025-08-26,173,1
+P0936,55,M,individual,Dra. Rodriguez,depression,24,2025-02-09,2026-06-02,-107,1
+P0937,55,M,individual,Dr. Min,depression,8,2024-09-19,2025-08-26,173,1
+P0938,56,M,family,Dra. Gutierrez,depression,8,2024-09-22,2025-10-21,117,1
+P0939,66,F,couple,Dra. Rodriguez,anxiety,21,2025-04-11,2025-11-25,82,1
+P0940,34,M,individual,Dra. Gutierrez,depression,7,2024-11-20,2025-08-19,180,1
+P0941,46,M,individual,Dra. Gutierrez,anxiety,18,2025-04-08,2026-03-10,-23,0
+P0942,33,M,individual,Dr. Min,anxiety,19,2025-01-27,2025-11-11,96,1
+P0943,49,F,individual,Dra. Gutierrez,depression,7,2024-12-30,2025-10-07,131,1
+P0944,64,F,individual,Dra. Gutierrez,anxiety,26,2024-10-19,2025-12-30,47,1
+P0945,55,F,individual,Dra. Rodriguez,anxiety,24,2024-11-28,2025-12-16,61,1
+P0946,59,F,family,Dr. Dominguez,anxiety,17,2024-07-26,2025-10-28,110,1
+P0947,18,F,family,Dr. Min,depression,22,2025-03-09,2025-12-02,75,1
+P0948,50,M,individual,Dra. Gutierrez,relationship conflict,27,2024-11-16,2026-01-06,40,0
+P0949,18,M,individual,Dra. Gutierrez,depression,4,2024-08-25,2025-08-26,173,1
+P0950,66,M,individual,Dr. Min,depression,29,2025-02-17,2026-08-11,-177,1
+P0951,35,M,individual,Dr. Min,anxiety,10,2025-04-14,2025-09-09,159,1
+P0952,49,M,individual,Dra. Gutierrez,relationship conflict,6,2024-12-26,2025-08-12,187,1
+P0953,72,F,individual,Dra. Rodriguez,relationship conflict,10,2024-08-08,2025-09-09,159,1
+P0954,39,M,individual,Dra. Gutierrez,anxiety,16,2024-10-21,2025-10-21,117,1
+P0955,62,M,individual,Dra. Rodriguez,anxiety,25,2024-12-21,2026-06-16,-121,0
+P0956,21,M,individual,Dr. Dominguez,depression,6,2024-11-24,2025-08-12,187,1
+P0957,33,M,individual,Dr. Dominguez,depression,11,2024-08-18,2025-09-16,152,1
+P0958,42,F,individual,Dr. Dominguez,depression,8,2024-09-21,2025-08-26,173,1
+P0959,31,M,couple,Dra. Gutierrez,relationship conflict,16,2025-01-01,2026-02-10,5,0
+P0960,50,M,couple,Dr. Dominguez,anxiety,28,2024-12-08,2026-01-13,33,1
+P0961,67,M,individual,Dra. Gutierrez,stress,14,2025-03-30,2025-10-07,131,1
+P0962,52,M,individual,Dra. Gutierrez,stress,24,2024-08-12,2025-12-16,61,1
+P0963,73,M,couple,Dr. Min,relationship conflict,22,2024-11-27,2025-12-02,75,1
+P0964,27,F,individual,Dra. Rodriguez,depression,9,2024-11-13,2025-09-02,166,1
+P0965,72,F,couple,Dr. Min,anxiety,9,2025-03-17,2025-09-02,166,1
+P0966,65,M,individual,Dra. Rodriguez,stress,24,2024-09-21,2025-12-16,61,1
+P0967,42,F,individual,Dr. Min,stress,10,2024-10-21,2025-09-09,159,1
+P0968,62,F,individual,Dr. Min,anxiety,9,2024-07-30,2025-09-02,166,1
+P0969,33,F,couple,Dr. Dominguez,depression,8,2025-01-19,2025-08-26,173,1
+P0970,68,M,individual,Dra. Rodriguez,anxiety,15,2024-09-25,2026-01-27,19,0
+P0971,33,M,family,Dra. Rodriguez,anxiety,6,2024-12-23,2025-08-12,187,1
+P0972,30,F,individual,Dr. Dominguez,anxiety,8,2024-12-08,2025-08-26,173,1
+P0973,57,M,individual,Dr. Dominguez,depression,13,2024-12-20,2025-09-30,138,1
+P0974,58,F,individual,Dr. Dominguez,anxiety,18,2024-09-15,2026-03-10,-23,0
+P0975,43,M,couple,Dr. Min,relationship conflict,28,2025-03-03,2026-01-13,33,0
+P0976,45,F,couple,Dra. Gutierrez,anxiety,11,2024-09-17,2025-09-16,152,1
+P0977,42,M,individual,Dr. Min,anxiety,14,2025-03-15,2025-10-07,131,1
+P0978,43,F,individual,Dra. Rodriguez,anxiety,14,2025-02-28,2026-01-13,33,0
+P0979,60,M,couple,Dr. Dominguez,relationship conflict,15,2024-08-24,2025-10-14,124,1
+P0980,73,F,couple,Dra. Gutierrez,anxiety,17,2025-01-27,2025-10-28,110,1
+P0981,43,M,individual,Dra. Rodriguez,depression,7,2025-01-27,2025-08-19,180,1
+P0982,34,F,individual,Dr. Dominguez,depression,20,2024-11-22,2026-04-07,-51,0
+P0983,60,F,family,Dr. Dominguez,depression,17,2025-02-04,2025-10-28,110,1
+P0984,54,M,individual,Dra. Rodriguez,anxiety,19,2024-12-04,2025-11-11,96,1
+P0985,57,F,couple,Dr. Min,depression,18,2025-02-04,2025-11-04,103,1
+P0986,74,F,individual,Dr. Min,relationship conflict,6,2024-10-23,2025-08-12,187,1
+P0987,38,M,couple,Dr. Dominguez,anxiety,7,2025-02-23,2025-08-19,180,1
+P0988,33,F,individual,Dr. Dominguez,anxiety,18,2025-01-22,2025-11-04,103,1
+P0989,43,M,couple,Dra. Gutierrez,relationship conflict,16,2024-11-20,2025-10-21,117,1
+P0990,54,F,couple,Dr. Dominguez,depression,5,2024-09-12,2025-09-09,159,1
+P0991,21,F,individual,Dr. Dominguez,stress,21,2024-11-28,2025-11-25,82,1
+P0992,44,F,family,Dr. Min,anxiety,22,2024-11-02,2026-05-05,-79,0
+P0993,55,F,individual,Dr. Min,relationship conflict,25,2024-10-21,2025-12-23,54,0
+P0994,42,F,family,Dra. Rodriguez,anxiety,11,2024-11-20,2025-09-16,152,1
+P0995,39,F,couple,Dra. Gutierrez,anxiety,21,2025-04-01,2025-11-25,82,1
+P0996,23,M,family,Dra. Rodriguez,stress,15,2024-11-03,2025-10-14,124,1
+P0997,31,F,couple,Dra. Gutierrez,depression,29,2024-09-23,2026-01-20,26,1
+P0998,68,F,couple,Dr. Min,anxiety,29,2024-09-11,2026-08-11,-177,0
+P0999,45,M,individual,Dr. Dominguez,anxiety,7,2024-12-03,2025-10-07,131,1
+P1000,70,F,individual,Dra. Gutierrez,depression,26,2024-09-24,2025-12-30,47,1
