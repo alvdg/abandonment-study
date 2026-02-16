@@ -121,6 +121,7 @@ def generar_datos_pacientes(n_pacientes=1000):
 
 # Generar y probar
 df = generar_datos_pacientes(1000)
+df.to_csv('data/pacientes.csv', index=False)
 
 print("=== DISTRIBUCIÓN DE ESTADOS ===")
 print(f"Abandonos: {df['abandono'].mean():.1%}")

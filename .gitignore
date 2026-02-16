@@ -10,3 +10,4 @@ wheels/
 .venv
 src/generar_datos_old1.py
 src/generate_data_old2.py
+src/generar_datos_old2.py
